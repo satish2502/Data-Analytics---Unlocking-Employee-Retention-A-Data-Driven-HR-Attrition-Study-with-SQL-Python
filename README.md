@@ -14,6 +14,7 @@ Provide actionable recommendations to HR leadership for reducing unwanted attrit
 ### 2. Dataset Used
 
 Source: A SQL Server table named HR_Attrition_Unclean in the HrAnalytics database.
+dataset link - https://github.com/satish2502/Data-Analytics---Unlocking-Employee-Retention-A-Data-Driven-HR-Attrition-Study-with-SQL-Python/blob/main/unclean_hr_attrition_dataset.csv
 
 Extraction: Data pulled into a Pandas DataFrame via pyodbc and pd.read_sql().
 
@@ -159,3 +160,5 @@ Roll out pulse surveys specifically within high-turnover teams.
 
 ### 7. Conclusion
 Through meticulous end-to-end cleaning and layered EDA, this analysis surfaces the multi-faceted drivers of HR attrition. Early-career employees in low-pay roles, those subjected to excessive overtime without work-life support, and individuals feeling promotion stagnation represent the highest turnover risk. By acting on tailored compensation, career development, and well-being initiatives—especially within Research & Development and Sales—the organization can meaningfully curb attrition, stabilize its talent base, and foster long-term employee engagement.
+
+Dashboard Link -
