@@ -1,0 +1,1001 @@
+EmployeeID,Age,Department,Education,JobRole,Gender,MonthlyIncome,DateOfJoining,OverTime,BusinessTravel,MaritalStatus,YearsAtCompany,DistanceFromHome,PerformanceRating,TrainingTimesLastYear,JobSatisfaction,WorkLifeBalance,EnvironmentSatisfaction,YearsSinceLastPromotion,YearsWithCurrManager,JobInvolvement,Attrition,StockOptionLevel,PercentSalaryHike,TotalWorkingYears
+2632.0,,R&D,3,Executive ,,8699,Not Available,No,Non-Travel,M,1,Far,High,,2,1,3,,4,3,Yes,Zero,19,
+1621.0,31,Human Resources,3,Laboratory Technician,male,12125,,yes,Travel_Rarely,D,,Near,3,Zero,4,2,3,None,,4,yes,2,,5
+5665.0,38,rnd,Two,Manager,Female,,12-05-2018,Y,,M,Ten,Near,,5,3,3,2,,4,4,,0,,13
+,,,4,Scientist,male,9831,2019-07-28,Yes,Rarely,Single,9,Near,3,0,Low,2,,4,8,4,Yes,1,,Twenty
+2035.0,Thirty,Sales,Two,Tech,Male,,Not Available,No,Non-Travel,D,,Far,,0,,Poor,4,None,,4,,Zero,15,Twenty
+3248.0,21,Human Resources,4,,male,6776,2016-01-23,N,,,2,14,High,2,Low,2,Good,8,Five,1,Y,0,24,1
+6700.0,,HR,2,Research Scientist,,15483,Not Available,,Travel_Rarely,D,3,Near,2,Zero,Low,2,,,13,,Y,1,22,1
+9099.0,29,R&D,4,Executive ,male,Five Thousand,12-05-2018,No,Travel_Frequently,Single,,,1,6,1,1,2,,,4,yes,,Twenty,Twenty
+2040.0,,Sales,5,Tech,Male,9349,,Yes,Rarely,Divorced,,Far,,,,Poor,3,0,Five,3,No,Zero,23,25
+2170.0,Thirty,Human Resources,1,Executive,male,,Not Available,No,Non-Travel,Divorced,,Near,3,0,2,2,3,,,1,Y,3,,
+6736.0,Thirty,Sales,1,Tech,Female,12435,2022-11-12,yes,Travel_Rarely,,,Far,4,5,3,3,2,None,,3,N,1,18,39
+9430.0,49,Sales,3,Scientist,F,Five Thousand,,No,Travel_Rarely,Divorced,,18,2,Zero,3,2,4,,,High,No,3,Twenty,
+,,HR,1,Executive,Male,,Not Available,No,Travel_Rarely,Single,Ten,Near,3,4,4,,4,,Five,4,Y,Zero,19,Twenty
+1405.0,Thirty,Human Resources,5,,M,4373,2025-03-31,No,Travel_Rarely,M,9,,3,3,Low,,,,Five,High,yes,1,12,Twenty
+5289.0,Thirty,Research & Development,1,Tech,,Five Thousand,2017-02-21,Y,Non-Travel,Single,Ten,,3,3,,4,1,,Five,2,No,3,,Twenty
+3064.0,Thirty,Human Resources,2,Tech,Female,Five Thousand,12-05-2018,Yes,Frequently,M,,Near,,Zero,1,,2,4,Five,4,N,,18,
+7752.0,23,Sales,1,,M,Five Thousand,12-05-2018,No,Travel_Frequently,M,13,Far,2,6,3,1,Good,,Five,4,N,3,18,
+7842.0,,Research & Development,4,Manager,F,6926,Not Available,N,,D,Ten,Near,2,,Low,1,3,4,Five,2,No,0,Twenty,11
+6999.0,Thirty,Research & Development,5,Executive,Male,,2017-02-23,No,Non-Travel,M,,Far,3,0,3,4,3,7,Five,1,N,,25,15
+3533.0,26,Sales,3,Research Scientist,Male,11132,2020-07-19,,Non-Travel,Divorced,,,2,Zero,4,Poor,2,None,,High,Yes,Zero,Twenty,
+4260.0,Thirty,HR,3,Executive,F,,2024-11-24,,Travel_Rarely,D,,15,High,4,Low,4,4,,1,2,Y,Zero,18,Twenty
+4076.0,25,Human Resources,1,Research Scientist,Female,,2019-10-16,Y,Rarely,single,8,12,4,,4,,2,None,Five,1,N,2,14,
+3948.0,55,,,Manager,M,,,Yes,Non-Travel,single,Ten,Far,High,Zero,Low,1,Good,,1,1,Yes,,14,Twenty
+4235.0,Thirty,rnd,Two,Scientist,Male,Five Thousand,,Yes,Travel_Frequently,D,20,30,3,,4,1,4,10,,High,yes,2,Twenty,Twenty
+5029.0,50,HR,2,Laboratory Technician,M,Five Thousand,Not Available,,Frequently,,,Far,High,Zero,1,4,Good,5,,2,yes,3,,Twenty
+1719.0,Thirty,HR,Two,Executive,,,12-05-2018,No,Rarely,Single,,3,4,Zero,3,1,,None,,3,yes,3,Twenty,18
+8818.0,Thirty,Research & Development,,Research Scientist,male,9325,,Y,,Married,5,Far,4,Zero,1,,2,2,,2,No,1,Twenty,
+6601.0,Thirty,Sales,,Manager,,,Not Available,Y,Travel_Rarely,Single,,,2,Zero,4,4,3,None,Five,1,yes,3,,38
+3250.0,43,rnd,,Manager,,Five Thousand,2016-07-19,yes,Frequently,Single,7,Far,2,5,3,4,,None,,4,N,,Twenty,Twenty
+3344.0,38,R&D,4,Research Scientist,,18873,12-05-2018,Yes,Travel_Rarely,Married,,1,,,4,,,None,8,4,Y,3,Twenty,Twenty
+,,R&D,2,Executive ,Male,,,,,D,7,20,2,Zero,2,1,1,,,4,yes,1,,
+6828.0,,,5,Tech,Male,,2021-06-25,yes,Travel_Rarely,D,,5,1,6,4,3,,,0,1,Y,,18,Twenty
+4381.0,,Sales,3,Scientist,Male,4500,,yes,Rarely,Divorced,,Near,4,6,1,3,Good,,13,3,No,0,,Twenty
+5821.0,Thirty,Sales,3,Research Scientist,Female,,,No,Non-Travel,M,10,Far,2,Zero,,Poor,2,,8,,No,2,,
+5352.0,27,HR,1,,M,,12-05-2018,No,Non-Travel,single,4,Near,,Zero,3,1,2,,,,Yes,3,,Twenty
+7282.0,Thirty,,,Executive,Male,17258,,,Frequently,single,,Far,,3,,Poor,4,None,1,1,yes,1,17,
+2414.0,40,Sales,3,Research Scientist,,,,N,Travel_Rarely,,13,Near,3,Zero,Low,3,3,2,,,Yes,1,,29
+5228.0,Thirty,Sales,,,,Five Thousand,12-05-2018,,Frequently,D,,,2,,3,1,2,4,,3,Y,3,,28
+7235.0,,HR,2,Research Scientist,M,Five Thousand,,Yes,,Married,,Near,4,5,Low,1,2,None,Five,2,N,3,Twenty,
+3302.0,,Sales,,Executive ,Female,Five Thousand,,No,Travel_Frequently,single,,27,1,Zero,Low,4,1,None,Five,,yes,2,16,40
+,,R&D,5,Laboratory Technician,male,5753,Not Available,Yes,,,15,,4,,3,,Good,1,,1,No,Zero,Twenty,Twenty
+,Thirty,Research & Development,,,Male,3436,Not Available,N,,Single,8,Near,2,Zero,3,2,,6,Five,3,,2,Twenty,Twenty
+8581.0,Thirty,Sales,Two,Research Scientist,M,Five Thousand,2019-04-20,,Travel_Rarely,Divorced,,,1,,,3,4,None,,2,N,3,,35
+4268.0,,Research & Development,2,Research Scientist,,6837,Not Available,N,Non-Travel,Divorced,,,High,0,4,1,4,None,Five,High,Yes,0,24,Twenty
+4658.0,Thirty,HR,1,Manager,Female,,2023-04-26,Y,Frequently,D,Ten,16,4,Zero,4,Poor,1,3,1,3,,3,,
+1073.0,31,HR,Two,Tech,,11995,2018-12-04,Yes,,single,,Near,High,Zero,4,2,1,,11,High,yes,Zero,15,Twenty
+6523.0,Thirty,R&D,2,Scientist,F,Five Thousand,,N,Non-Travel,Divorced,2,12,3,2,Low,2,3,None,Five,1,Y,0,,Twenty
+5296.0,Thirty,HR,1,Manager,Female,Five Thousand,,,Travel_Rarely,,,Near,,,1,1,3,8,,3,yes,0,Twenty,Twenty
+9436.0,Thirty,Sales,3,Executive,male,13696,12-05-2018,No,Frequently,,Ten,2,3,,Low,2,4,,Five,1,,,Twenty,4
+9762.0,Thirty,rnd,2,Scientist,male,Five Thousand,2016-09-03,Yes,Travel_Frequently,D,Ten,,2,1,2,3,1,4,,3,Yes,1,Twenty,
+3600.0,32,Sales,4,Research Scientist,Male,,2019-01-23,N,Travel_Rarely,M,,,High,Zero,2,1,,0,9,2,No,Zero,10,8
+5624.0,,Human Resources,1,Tech,F,Five Thousand,Not Available,yes,Frequently,D,,10,1,5,Low,Poor,2,,11,2,Y,,Twenty,
+2708.0,,Research & Development,Two,Research Scientist,male,,2021-09-08,N,Travel_Frequently,Married,5,Near,2,,1,3,1,,Five,2,,0,21,33
+3709.0,31,HR,1,Executive,male,,2021-04-19,Y,Travel_Rarely,D,,Near,,Zero,2,1,1,,13,1,N,2,18,
+2841.0,,Sales,2,Tech,,,12-05-2018,No,Rarely,single,19,6,2,,Low,Poor,2,None,,High,,3,Twenty,Twenty
+6378.0,Thirty,HR,2,Executive ,Male,,2024-07-11,yes,Rarely,M,Ten,,3,3,1,4,3,,Five,2,Yes,3,,
+8362.0,55,HR,3,Manager,male,,,N,Frequently,Divorced,6,Near,3,,1,4,2,None,Five,High,Y,Zero,Twenty,
+7870.0,Thirty,Human Resources,5,Tech,F,Five Thousand,Not Available,No,Travel_Rarely,Single,,Far,4,Zero,Low,4,4,None,Five,2,Yes,Zero,,6
+7539.0,54,,5,,Female,Five Thousand,,No,Travel_Rarely,Married,Ten,,,6,1,3,2,7,,High,No,1,Twenty,Twenty
+3776.0,,HR,3,Executive ,Female,Five Thousand,,No,Non-Travel,Single,11,Near,1,Zero,1,2,3,None,Five,2,N,2,Twenty,31
+7095.0,Thirty,,Two,Research Scientist,male,19971,2023-10-26,Yes,Non-Travel,Divorced,,,,,3,2,3,None,,,yes,3,13,19
+4597.0,23,Sales,4,Executive,,,2019-11-14,,Travel_Frequently,Divorced,Ten,5,1,Zero,Low,3,,None,Five,4,No,Zero,Twenty,38
+6151.0,55,HR,1,Manager,F,Five Thousand,,Yes,Non-Travel,,,Near,High,2,Low,4,,,Five,4,Yes,1,Twenty,11
+7334.0,Thirty,rnd,4,Scientist,,,,No,,D,,3,3,2,3,1,Good,None,,4,Yes,0,,35
+7924.0,33,rnd,5,Laboratory Technician,Female,Five Thousand,,,Non-Travel,Married,Ten,,High,Zero,4,1,4,,,High,N,2,,Twenty
+3598.0,Thirty,Human Resources,4,Research Scientist,Male,,,,Rarely,Married,,16,High,3,Low,3,3,,,4,yes,1,Twenty,10
+9847.0,41,Sales,2,Scientist,F,15458,12-05-2018,Yes,,Divorced,,Near,1,Zero,Low,Poor,2,,Five,3,Y,1,,
+8374.0,Thirty,Human Resources,5,Tech,M,Five Thousand,2020-12-08,Yes,Frequently,single,,Near,,6,3,3,4,,,3,,Zero,Twenty,Twenty
+1013.0,Thirty,R&D,Two,Executive,F,,,yes,Travel_Rarely,D,Ten,Near,4,Zero,,,1,,,3,Y,,,Twenty
+9369.0,,Sales,Two,,,6820,,,Non-Travel,M,20,1,High,,4,2,4,3,,3,Y,0,,Twenty
+9901.0,,HR,2,Executive ,F,,12-05-2018,N,Frequently,Married,,14,2,2,1,4,3,1,15,3,Yes,1,,Twenty
+3073.0,Thirty,Sales,,Manager,Male,,12-05-2018,Yes,Non-Travel,Divorced,,,High,Zero,Low,Poor,1,,6,3,,2,16,26
+7521.0,,Sales,3,,male,Five Thousand,Not Available,yes,,Divorced,6,Near,2,Zero,4,,4,None,,2,Y,,Twenty,6
+9382.0,,R&D,3,Executive,Female,,12-05-2018,,Non-Travel,Married,Ten,29,2,2,3,1,,10,Five,High,No,3,,8
+,51,R&D,1,Research Scientist,F,,2019-11-02,No,Travel_Frequently,,Ten,,,Zero,Low,,2,,,2,,Zero,21,38
+6754.0,Thirty,Research & Development,4,Research Scientist,Female,13027,,Y,Non-Travel,Divorced,15,Near,1,Zero,Low,2,3,10,,High,yes,0,,8
+1025.0,,Research & Development,5,Executive,M,10279,2019-10-23,No,Rarely,D,,,,,4,Poor,2,None,,4,No,2,Twenty,
+8277.0,,Research & Development,1,Executive ,F,,,yes,Rarely,,,,1,,1,1,1,None,,,yes,0,Twenty,
+8444.0,47,Research & Development,5,Research Scientist,male,Five Thousand,Not Available,yes,Rarely,Single,6,22,3,Zero,,2,2,9,Five,3,No,0,18,6
+8451.0,,R&D,2,Manager,Male,,,yes,Non-Travel,single,Ten,,2,Zero,2,3,1,,,,yes,Zero,Twenty,Twenty
+,Thirty,R&D,5,,M,19288,,Y,Travel_Frequently,Married,,Far,3,2,2,,3,3,Five,High,No,1,Twenty,Twenty
+9646.0,45,,4,Tech,F,Five Thousand,Not Available,Yes,Frequently,,,5,4,0,2,Poor,1,None,14,,yes,1,20,Twenty
+2788.0,,HR,4,Laboratory Technician,Female,Five Thousand,,No,,Single,17,21,2,,4,1,2,,Five,2,Y,0,,
+9781.0,48,,4,Tech,,,2024-11-14,No,Travel_Rarely,D,Ten,Far,1,,1,2,,9,13,,,Zero,,Twenty
+6150.0,27,Research & Development,2,,Male,5393,Not Available,,Frequently,,Ten,Far,,,1,,,None,,3,,Zero,22,13
+5903.0,Thirty,Human Resources,1,Tech,F,,12-05-2018,,Rarely,Married,Ten,Near,4,0,,1,1,None,,4,,0,Twenty,3
+3528.0,,Sales,3,Scientist,,,,,,,,Near,2,,3,4,3,1,Five,4,Yes,1,Twenty,Twenty
+7618.0,,Research & Development,4,,M,13344,2024-11-07,yes,,D,12,Far,1,,2,3,2,,Five,4,Yes,Zero,Twenty,36
+3038.0,Thirty,rnd,5,Executive ,Male,7945,,N,Frequently,,Ten,Near,2,Zero,,1,3,,,,No,0,19,Twenty
+2390.0,Thirty,Human Resources,2,Research Scientist,F,19074,,No,Travel_Rarely,M,,,High,,4,2,Good,None,,4,Y,Zero,Twenty,1
+3667.0,31,Human Resources,Two,Tech,F,4271,,,,,Ten,16,,2,2,1,1,2,Five,,,2,15,6
+8647.0,Thirty,Sales,1,Tech,Male,Five Thousand,,N,Travel_Rarely,Divorced,10,Near,1,1,,2,4,None,,,yes,3,15,Twenty
+4980.0,Thirty,Research & Development,,Research Scientist,male,,2019-06-12,,Rarely,Single,Ten,,3,,2,3,3,,14,2,N,1,15,30
+3129.0,Thirty,,,Executive,male,Five Thousand,Not Available,N,Frequently,D,15,,High,Zero,4,1,2,None,0,4,yes,Zero,,Twenty
+7223.0,Thirty,Sales,1,Laboratory Technician,,,2019-01-20,yes,Travel_Frequently,Divorced,12,21,High,,1,Poor,1,,9,1,yes,1,,
+8666.0,Thirty,HR,5,Scientist,M,,Not Available,N,Frequently,,20,27,,Zero,4,1,3,None,Five,High,No,0,Twenty,Twenty
+4473.0,Thirty,Human Resources,Two,Executive,M,9090,2017-05-09,N,,Single,14,Far,,1,,,3,2,0,1,yes,2,Twenty,
+2900.0,Thirty,rnd,Two,Laboratory Technician,Female,8929,,Yes,Travel_Frequently,Married,,Near,3,0,1,2,Good,0,,,No,Zero,,
+8469.0,Thirty,Sales,Two,Manager,M,Five Thousand,12-05-2018,Yes,Travel_Rarely,D,,Near,,,1,3,3,10,7,High,,2,Twenty,22
+3056.0,37,HR,5,Manager,F,,2016-06-26,Yes,Rarely,single,Ten,Near,4,5,1,Poor,4,8,Five,4,,2,,
+2336.0,,HR,,Scientist,,Five Thousand,12-05-2018,Yes,Travel_Rarely,single,19,18,2,,Low,2,Good,None,3,2,Yes,,,
+3911.0,59,Sales,4,Executive,,,Not Available,yes,Rarely,M,19,,,Zero,1,1,3,10,Five,1,N,0,Twenty,21
+4354.0,,rnd,4,Manager,,Five Thousand,,No,,Single,19,14,4,,Low,Poor,4,,Five,3,N,3,11,
+9538.0,Thirty,R&D,3,Tech,male,10635,12-05-2018,yes,Rarely,M,Ten,Far,,5,1,1,,1,11,4,,Zero,Twenty,
+9007.0,Thirty,HR,1,Manager,,Five Thousand,Not Available,Y,Rarely,Married,Ten,7,1,5,Low,1,1,10,Five,1,,2,,7
+8956.0,Thirty,Research & Development,,Laboratory Technician,Male,,2019-04-12,yes,,Married,6,Near,2,Zero,,4,Good,,Five,4,,,22,14
+5094.0,,Sales,5,Laboratory Technician,Female,,,N,Travel_Rarely,Single,2,9,1,,4,,Good,,4,High,Yes,1,,30
+7524.0,44,Human Resources,5,Scientist,male,19272,12-05-2018,Yes,Frequently,Single,Ten,,,0,,2,4,,Five,1,No,3,24,Twenty
+2746.0,Thirty,Sales,,Manager,male,,Not Available,,Frequently,single,,Near,3,Zero,,4,,,13,1,yes,0,,Twenty
+2949.0,Thirty,R&D,1,Research Scientist,Female,,12-05-2018,No,Non-Travel,,Ten,Far,4,Zero,4,1,4,,Five,High,,2,,
+2674.0,,R&D,,Scientist,M,17450,Not Available,Y,,Married,6,Far,1,Zero,,Poor,4,,14,1,N,2,17,5
+9377.0,Thirty,rnd,Two,Laboratory Technician,M,4206,12-05-2018,Y,Travel_Rarely,M,,Far,High,,3,4,4,8,Five,High,yes,1,,5
+9773.0,Thirty,rnd,,Tech,,Five Thousand,Not Available,Yes,Rarely,Single,Ten,Near,4,5,1,1,2,10,,,N,3,11,38
+3516.0,21,Human Resources,1,,Female,Five Thousand,,No,Frequently,D,,Near,4,Zero,Low,3,,,Five,1,,,22,8
+2646.0,,Sales,Two,Manager,male,Five Thousand,12-05-2018,,Travel_Frequently,D,10,,High,,Low,3,1,None,,4,yes,2,,12
+2310.0,Thirty,Human Resources,3,Executive ,Male,7187,Not Available,yes,Non-Travel,D,Ten,21,3,Zero,4,3,4,,,2,N,2,12,16
+9273.0,20,rnd,,Tech,male,11595,,No,Frequently,,,Near,4,,2,3,1,None,,1,Y,3,Twenty,Twenty
+8359.0,55,Sales,,,Female,19561,2021-04-26,No,Rarely,single,19,Far,2,3,3,2,4,10,Five,,Y,1,25,Twenty
+9244.0,Thirty,Sales,3,Executive ,F,,Not Available,,Travel_Frequently,D,Ten,,High,1,3,1,,None,Five,4,No,Zero,,
+3525.0,33,HR,1,Executive,F,,12-05-2018,Yes,Travel_Rarely,,,Near,3,Zero,3,Poor,4,1,0,High,No,,Twenty,7
+9098.0,Thirty,Sales,3,Laboratory Technician,F,4819,2015-09-30,yes,Travel_Rarely,Single,Ten,,4,,1,3,2,,,2,No,2,,Twenty
+5539.0,,,4,Executive,,3300,Not Available,Y,Travel_Rarely,D,5,2,1,Zero,3,4,4,,,4,,0,24,Twenty
+3069.0,Thirty,Research & Development,3,Executive ,Male,18160,Not Available,,Frequently,Single,,Near,3,,,2,4,0,11,,N,Zero,Twenty,27
+6169.0,,Sales,3,Executive ,Female,2142,,N,,Divorced,,Far,4,0,2,1,2,,7,High,,0,,12
+6317.0,Thirty,,4,Laboratory Technician,F,Five Thousand,12-05-2018,N,Travel_Frequently,,Ten,Far,,1,Low,1,1,None,,High,Yes,1,21,
+4724.0,,Human Resources,,Manager,F,,Not Available,yes,Frequently,Married,Ten,27,High,4,2,Poor,4,10,,3,yes,1,Twenty,Twenty
+3190.0,37,Sales,2,Manager,,,2019-10-14,Yes,Travel_Rarely,,,Near,4,Zero,4,,4,,0,1,No,0,Twenty,
+3388.0,Thirty,Sales,1,Executive,,Five Thousand,12-05-2018,Yes,Non-Travel,Divorced,,,3,4,3,2,4,None,0,,No,1,15,
+4173.0,,rnd,4,Laboratory Technician,F,Five Thousand,Not Available,yes,,single,13,Near,3,,1,1,2,,,,Yes,Zero,Twenty,
+7192.0,,R&D,,Laboratory Technician,M,13538,Not Available,N,Frequently,Married,9,Near,2,5,1,,3,7,15,3,Yes,1,Twenty,
+2569.0,Thirty,,2,Scientist,male,Five Thousand,,N,Rarely,Married,Ten,Near,High,3,3,1,Good,None,Five,3,No,2,15,
+2579.0,,Research & Development,,Manager,F,18093,Not Available,Yes,,,,Far,,2,Low,Poor,3,3,14,1,yes,,17,
+2230.0,Thirty,rnd,,Manager,F,,,,Non-Travel,Single,1,Near,,,3,Poor,,None,13,2,,3,23,9
+1037.0,,Sales,1,Manager,F,19943,,yes,Rarely,Married,,Far,High,,4,3,4,0,3,1,N,3,,
+2802.0,Thirty,,Two,,M,7451,,N,Travel_Frequently,single,Ten,Far,2,,Low,3,Good,None,Five,,yes,1,18,Twenty
+3565.0,,HR,2,,,Five Thousand,12-05-2018,Yes,Rarely,,Ten,13,4,Zero,3,1,3,6,,3,,1,Twenty,23
+4271.0,,R&D,4,,,Five Thousand,12-05-2018,No,Rarely,D,17,,2,,,1,Good,10,Five,4,yes,0,,18
+3331.0,49,Sales,1,Laboratory Technician,male,17363,,N,Frequently,single,,,1,,3,Poor,3,1,11,4,Yes,,Twenty,Twenty
+4107.0,,Sales,4,Manager,male,7478,Not Available,Y,Non-Travel,,9,Far,2,2,2,2,1,7,Five,,yes,2,10,25
+3999.0,,HR,4,Executive,male,3609,,Yes,Rarely,single,Ten,8,High,Zero,2,3,Good,,Five,3,,,Twenty,
+8329.0,,Human Resources,,Tech,,,Not Available,Y,Non-Travel,single,12,,3,Zero,,4,1,9,1,2,No,3,Twenty,
+2762.0,Thirty,Research & Development,2,Executive ,Male,Five Thousand,12-05-2018,Yes,Rarely,,Ten,Near,2,,4,Poor,Good,,12,1,N,Zero,,Twenty
+4441.0,54,Sales,Two,Tech,male,Five Thousand,,Yes,,single,Ten,,2,,2,4,2,,10,High,Yes,1,Twenty,24
+7374.0,47,rnd,4,Tech,Male,,Not Available,Y,,,Ten,8,3,4,,4,,None,,2,yes,Zero,24,11
+6173.0,,HR,3,,male,6990,12-05-2018,N,Travel_Frequently,single,Ten,Near,2,Zero,2,Poor,,,3,,No,,,Twenty
+1871.0,21,rnd,2,Research Scientist,M,12561,2016-01-15,Y,Rarely,single,Ten,Near,3,Zero,Low,4,4,,10,1,No,0,Twenty,Twenty
+4236.0,Thirty,Sales,5,Scientist,Male,Five Thousand,12-05-2018,Y,Travel_Frequently,Divorced,,Near,1,,3,1,3,9,11,High,yes,3,,25
+9473.0,Thirty,R&D,4,Laboratory Technician,male,,12-05-2018,,Frequently,Divorced,,,3,Zero,4,4,Good,None,10,High,No,,Twenty,Twenty
+1513.0,25,Research & Development,3,Laboratory Technician,M,Five Thousand,2017-03-20,Y,Travel_Frequently,Married,13,Near,4,,1,2,1,None,,High,No,2,Twenty,
+7717.0,46,,3,Research Scientist,,,,Y,Frequently,single,15,Far,3,0,4,2,4,None,Five,High,yes,Zero,Twenty,
+7564.0,31,R&D,4,Executive,M,,2021-09-26,Y,Frequently,Married,,Near,4,Zero,4,Poor,Good,7,Five,High,,Zero,Twenty,24
+1272.0,56,HR,Two,Manager,male,Five Thousand,Not Available,N,Frequently,D,,,1,,,Poor,1,,,High,Yes,3,,31
+,25,rnd,Two,Laboratory Technician,F,,2019-01-01,No,Travel_Rarely,single,,Near,2,Zero,2,2,2,,9,2,No,3,,Twenty
+6395.0,46,Human Resources,1,Executive,F,,12-05-2018,Yes,Frequently,,,Far,High,,3,Poor,,,Five,3,,Zero,,Twenty
+6162.0,41,R&D,2,Executive ,,18268,2019-09-01,No,Travel_Frequently,Divorced,Ten,Far,2,,Low,4,3,None,4,2,N,1,,Twenty
+8190.0,42,Research & Development,Two,Executive ,,,,,Frequently,,,2,1,Zero,3,4,4,0,,High,Y,,,16
+4892.0,Thirty,rnd,1,Manager,F,8662,2019-03-07,yes,Non-Travel,D,13,,2,,1,1,Good,0,Five,4,N,3,17,5
+7864.0,Thirty,Human Resources,3,Scientist,male,,2020-05-15,,Travel_Rarely,D,Ten,Far,3,3,3,3,4,5,Five,1,yes,3,,Twenty
+2445.0,,Sales,Two,Research Scientist,male,,Not Available,N,Non-Travel,single,3,Near,1,4,,4,3,,5,1,N,1,19,39
+2017.0,Thirty,Sales,4,Tech,,4203,,No,,Single,,15,1,2,Low,3,Good,None,14,4,N,1,Twenty,Twenty
+4281.0,Thirty,,1,Laboratory Technician,F,,Not Available,N,Non-Travel,Married,,Near,4,,,Poor,4,None,,4,yes,2,,Twenty
+9117.0,Thirty,rnd,1,Laboratory Technician,,,12-05-2018,Yes,Rarely,single,19,4,3,,4,3,1,None,,1,yes,1,Twenty,1
+2778.0,Thirty,HR,2,Tech,F,,2023-06-21,,Travel_Rarely,Single,Ten,,2,Zero,,4,4,,Five,2,yes,0,,
+7109.0,Thirty,Human Resources,4,Research Scientist,Male,10301,Not Available,yes,Non-Travel,Divorced,Ten,,1,,2,2,4,,4,,yes,2,12,Twenty
+2257.0,,Sales,5,Tech,M,10841,Not Available,No,Non-Travel,Single,12,,,,,3,Good,None,,4,Y,1,11,
+7135.0,58,Human Resources,5,Research Scientist,male,Five Thousand,,yes,Travel_Rarely,M,,Far,High,,3,3,1,None,,1,No,0,Twenty,
+5043.0,28,HR,1,Executive ,M,19291,,No,Travel_Rarely,,20,29,2,5,4,2,Good,,,High,N,Zero,16,Twenty
+9741.0,,Sales,Two,Manager,Male,Five Thousand,,yes,Rarely,single,,18,2,,2,4,1,4,,2,N,3,Twenty,14
+3910.0,47,,2,Executive ,male,4424,,N,Travel_Rarely,M,,,2,,2,,4,None,,2,Yes,,Twenty,4
+5064.0,53,Research & Development,Two,Scientist,M,8204,,,,Divorced,Ten,,,,3,Poor,Good,,6,High,yes,Zero,12,Twenty
+6969.0,36,HR,5,Scientist,M,,2017-12-21,yes,Non-Travel,Divorced,Ten,Near,4,4,4,4,,None,15,2,Yes,Zero,Twenty,
+9673.0,,R&D,Two,Scientist,Male,Five Thousand,12-05-2018,No,Frequently,M,Ten,,High,,Low,4,1,None,9,,N,3,14,33
+3470.0,Thirty,HR,4,Tech,Male,Five Thousand,12-05-2018,yes,Frequently,M,,Far,3,,1,1,3,None,Five,High,No,3,Twenty,Twenty
+3356.0,Thirty,Human Resources,Two,Laboratory Technician,F,Five Thousand,12-05-2018,Yes,Non-Travel,D,18,10,High,,4,Poor,4,,,,yes,1,25,Twenty
+7600.0,,rnd,Two,Executive ,M,16527,,,Rarely,D,19,Near,1,Zero,2,4,,,Five,4,No,,,29
+9093.0,Thirty,Human Resources,3,Scientist,Male,14163,,Y,Travel_Rarely,single,,Far,4,Zero,1,4,2,None,Five,,Y,,,
+5124.0,,HR,5,Research Scientist,M,Five Thousand,12-05-2018,yes,Travel_Rarely,Married,Ten,Near,3,0,,,4,,Five,3,yes,3,15,15
+6049.0,,,2,,M,7337,2015-10-10,Yes,,Single,18,,High,,4,,2,,,2,Yes,2,,6
+7142.0,,Sales,2,,,15955,,Y,Travel_Rarely,M,,Near,4,3,1,1,1,0,Five,3,No,Zero,19,
+7871.0,28,Sales,5,,Female,,12-05-2018,,Rarely,Single,,Far,3,Zero,Low,,Good,None,Five,3,yes,2,Twenty,
+2362.0,,Human Resources,5,Executive ,M,4281,2017-11-02,No,Travel_Frequently,D,7,6,,Zero,1,1,,9,,2,,3,10,
+1482.0,,HR,4,Scientist,,,Not Available,Y,Travel_Rarely,,,,4,4,1,3,3,7,3,,,Zero,,
+9309.0,,Sales,,Executive ,Female,7349,2023-01-24,No,Travel_Frequently,single,Ten,,3,2,2,2,2,0,5,,N,2,,1
+6697.0,46,R&D,4,Laboratory Technician,Female,,,N,Rarely,,17,Near,4,,1,3,2,None,13,3,yes,3,,Twenty
+8629.0,,Sales,1,,F,Five Thousand,12-05-2018,N,Travel_Rarely,single,0,,4,Zero,,1,2,None,5,High,yes,,,Twenty
+6607.0,,,Two,Manager,,17423,,No,Frequently,single,Ten,Far,2,4,,4,2,None,Five,1,N,3,Twenty,
+3181.0,,HR,1,Executive ,M,Five Thousand,12-05-2018,Y,,Married,9,,High,Zero,Low,Poor,Good,0,15,1,Yes,0,14,29
+9944.0,39,Research & Development,3,Scientist,F,Five Thousand,12-05-2018,yes,Non-Travel,D,11,Near,High,Zero,Low,1,,None,5,4,No,2,,17
+,Thirty,,4,Executive ,Female,,,N,Rarely,Married,,18,2,Zero,1,2,Good,10,,,yes,,,20
+2456.0,,Research & Development,3,Scientist,Male,Five Thousand,Not Available,No,Frequently,Divorced,Ten,,High,5,1,3,,None,Five,,No,3,Twenty,17
+3522.0,Thirty,Sales,1,Laboratory Technician,F,Five Thousand,Not Available,,,D,Ten,Far,,,1,3,1,,Five,High,No,2,Twenty,2
+9036.0,,HR,3,Executive,Female,,12-05-2018,yes,Non-Travel,Married,Ten,Far,High,Zero,2,Poor,Good,None,,High,No,3,Twenty,
+5329.0,,rnd,1,Laboratory Technician,male,,2021-01-22,Yes,Frequently,single,,Far,4,,1,3,4,,,3,Yes,1,11,Twenty
+7339.0,Thirty,Sales,,Laboratory Technician,Male,,2023-03-04,yes,Non-Travel,Married,6,Near,,,Low,,4,9,Five,1,Y,2,13,
+9161.0,,Sales,3,Laboratory Technician,F,Five Thousand,12-05-2018,yes,Travel_Rarely,Married,Ten,Far,2,,,1,,,4,4,Yes,2,Twenty,
+3145.0,,,4,Research Scientist,F,7407,2017-05-02,No,Travel_Rarely,single,,Near,3,,3,2,1,1,Five,High,N,0,Twenty,28
+8885.0,,Research & Development,2,Scientist,M,7660,12-05-2018,,Travel_Frequently,Single,,Near,3,1,4,4,3,3,,2,No,Zero,Twenty,
+9727.0,,Sales,4,Research Scientist,M,Five Thousand,Not Available,N,Travel_Frequently,single,Ten,Near,,4,3,3,4,None,,1,Yes,,22,23
+4279.0,Thirty,rnd,1,Executive,F,,,Y,,Married,10,19,4,5,4,4,1,,,3,No,Zero,,12
+2253.0,24,R&D,4,Scientist,M,,2024-04-22,No,Frequently,Married,Ten,Near,1,5,4,3,4,,Five,4,N,3,12,Twenty
+4042.0,,Sales,Two,Scientist,M,18209,2016-02-29,No,Travel_Rarely,D,Ten,,High,Zero,,2,3,9,11,High,No,3,19,
+4918.0,Thirty,Sales,1,Research Scientist,F,,Not Available,yes,,Single,Ten,Far,3,Zero,Low,4,4,None,6,3,No,Zero,18,Twenty
+,Thirty,rnd,4,Research Scientist,M,Five Thousand,Not Available,yes,,Single,,Near,1,2,4,,4,3,Five,High,yes,2,,
+5641.0,55,R&D,5,Tech,M,Five Thousand,2024-09-13,No,Travel_Rarely,single,Ten,Far,High,,1,Poor,3,9,Five,2,,Zero,,
+9875.0,47,Sales,2,,Male,,2018-12-20,Yes,Non-Travel,,Ten,Near,3,Zero,4,4,4,1,1,3,Y,0,14,Twenty
+1239.0,,,,Executive,M,Five Thousand,,yes,Rarely,D,,Near,1,Zero,Low,4,1,0,Five,High,N,Zero,,21
+5450.0,Thirty,Research & Development,,Laboratory Technician,M,6556,12-05-2018,yes,Frequently,D,,23,,,Low,Poor,3,None,,2,yes,0,,
+1543.0,Thirty,Human Resources,Two,Tech,M,,2020-10-18,No,Travel_Rarely,,4,27,,Zero,4,2,2,4,15,4,Yes,Zero,Twenty,
+9020.0,,R&D,4,Executive,F,,12-05-2018,Y,Non-Travel,single,Ten,Far,1,,1,2,Good,None,Five,,N,3,17,35
+1965.0,,Human Resources,4,Manager,Male,,,yes,,Single,,4,1,Zero,4,1,1,None,2,,No,3,13,
+4059.0,Thirty,Human Resources,1,Executive,Male,15960,Not Available,,Non-Travel,Single,,Far,High,,4,,4,6,Five,,N,2,10,31
+7928.0,51,Sales,,Executive ,male,Five Thousand,12-05-2018,yes,Non-Travel,M,,Far,4,Zero,2,,Good,5,4,4,yes,2,,Twenty
+1180.0,,Research & Development,1,Manager,Female,,2021-11-23,No,Travel_Rarely,M,Ten,,High,5,2,Poor,1,5,Five,,yes,0,,Twenty
+2301.0,,Research & Development,Two,Research Scientist,,,12-05-2018,,Travel_Frequently,Single,,Far,4,Zero,Low,4,Good,3,1,3,N,Zero,12,Twenty
+4590.0,41,,3,Executive,male,9342,2021-02-11,Yes,,,Ten,Far,,6,4,2,2,,10,2,No,2,,
+4428.0,,rnd,,Tech,Female,,2017-12-18,,,,Ten,Far,High,,1,4,2,2,Five,4,Yes,2,Twenty,
+2519.0,Thirty,HR,1,Research Scientist,M,Five Thousand,Not Available,Y,Travel_Rarely,D,Ten,2,,,4,2,Good,,,3,Y,1,Twenty,
+4399.0,Thirty,Research & Development,,,M,Five Thousand,12-05-2018,No,Rarely,D,Ten,Near,3,,3,,1,0,Five,1,No,Zero,16,10
+2628.0,Thirty,Research & Development,,Manager,F,Five Thousand,12-05-2018,,Non-Travel,M,6,,High,6,3,1,2,,,2,,3,,
+2527.0,,R&D,4,Executive ,Female,Five Thousand,12-05-2018,No,Non-Travel,Divorced,Ten,19,2,1,1,3,2,10,,3,N,1,21,Twenty
+3428.0,Thirty,HR,1,,M,11675,,N,Travel_Rarely,Single,12,Far,High,,,,3,None,Five,4,Yes,,Twenty,Twenty
+9611.0,,R&D,5,Manager,Male,Five Thousand,12-05-2018,,Travel_Frequently,Married,15,27,High,,3,2,,None,10,2,N,3,Twenty,1
+1245.0,,Sales,4,,,Five Thousand,Not Available,,,M,,28,4,Zero,3,3,3,0,12,2,No,3,23,
+2839.0,,Sales,3,Executive,F,7309,,Yes,Rarely,Single,Ten,,,3,,Poor,,None,Five,High,yes,0,,Twenty
+8012.0,,Research & Development,3,Executive,male,,2019-03-11,Y,Rarely,Divorced,Ten,,3,,1,4,Good,4,Five,1,yes,,,Twenty
+2586.0,,rnd,3,Executive,male,4617,2016-12-13,Y,Rarely,,Ten,Far,4,4,2,1,2,None,,High,Yes,Zero,23,20
+4941.0,,Human Resources,,Laboratory Technician,Male,Five Thousand,2018-03-05,,,D,Ten,27,3,,Low,Poor,,,,3,No,1,,27
+1980.0,Thirty,,5,Tech,Male,,,Yes,Rarely,M,5,Far,,,3,3,3,9,7,1,,0,Twenty,
+5736.0,Thirty,HR,1,Scientist,M,,12-05-2018,Yes,Frequently,Divorced,18,Near,2,,1,4,3,2,Five,2,yes,1,,
+7361.0,,Sales,Two,Research Scientist,male,Five Thousand,2017-10-25,yes,Non-Travel,M,,,3,,2,3,,8,,,yes,Zero,Twenty,7
+3354.0,,Sales,,Laboratory Technician,Female,Five Thousand,Not Available,,Travel_Frequently,M,Ten,,1,,3,3,3,,,,yes,0,,24
+3472.0,48,Sales,3,Research Scientist,,19035,,yes,,D,,,High,,2,2,2,3,6,4,,3,,13
+8756.0,,Sales,Two,Executive ,M,Five Thousand,12-05-2018,Yes,Travel_Rarely,M,11,26,4,,4,,1,,Five,1,Yes,,,15
+5909.0,Thirty,R&D,2,Executive,,6490,2023-10-08,,Frequently,M,,,High,,2,,2,2,Five,3,Y,3,18,Twenty
+6848.0,,Sales,Two,Laboratory Technician,M,Five Thousand,2016-04-07,No,Frequently,M,Ten,Near,4,,2,4,3,None,,2,Y,,13,Twenty
+9497.0,22,Human Resources,Two,Tech,F,11159,12-05-2018,Y,Rarely,Single,,19,1,,2,,2,None,4,High,Y,1,20,
+6379.0,,rnd,1,,F,,,N,Rarely,M,9,Far,2,Zero,,,1,,6,High,N,1,Twenty,
+6042.0,36,rnd,3,,F,Five Thousand,,,,Divorced,,3,,Zero,,Poor,,2,Five,3,Y,2,Twenty,25
+8857.0,29,,3,,Female,,2023-09-22,,Frequently,Single,Ten,,1,Zero,1,1,Good,None,12,4,Y,,Twenty,34
+3554.0,55,HR,Two,Executive ,,,2022-06-18,,Travel_Frequently,Divorced,Ten,Far,,4,4,4,,None,7,4,,3,,
+4297.0,44,Sales,Two,Laboratory Technician,male,Five Thousand,,No,Non-Travel,,15,Far,High,1,4,,Good,6,11,,yes,0,24,
+,21,Human Resources,2,Executive,M,Five Thousand,Not Available,Yes,Rarely,Married,Ten,Far,1,0,4,Poor,,10,,4,yes,0,Twenty,
+3691.0,Thirty,HR,4,Research Scientist,male,,Not Available,yes,Frequently,,,Near,4,Zero,2,Poor,4,None,14,2,,3,13,
+4932.0,,Human Resources,1,Scientist,,5796,12-05-2018,N,Travel_Rarely,Single,Ten,Far,3,0,4,4,3,,,4,yes,,Twenty,Twenty
+8665.0,Thirty,,1,Scientist,,17685,2018-04-17,yes,Non-Travel,M,6,,High,,4,3,2,10,6,,N,Zero,22,15
+1514.0,Thirty,R&D,2,Executive,M,Five Thousand,,N,Frequently,Divorced,Ten,10,4,2,4,2,2,0,6,3,N,,Twenty,37
+7242.0,42,Research & Development,3,Executive ,,8233,2019-09-23,yes,Frequently,single,1,14,3,Zero,2,Poor,Good,,,4,yes,Zero,,Twenty
+9180.0,Thirty,,4,Tech,male,,12-05-2018,No,Travel_Frequently,single,Ten,Near,2,2,1,,Good,,7,1,No,,Twenty,Twenty
+9662.0,,Human Resources,3,Executive,M,Five Thousand,,Y,Rarely,single,Ten,,High,5,Low,,2,,6,4,yes,Zero,23,Twenty
+5317.0,24,Research & Development,4,Tech,male,,,yes,Frequently,single,Ten,26,,Zero,2,Poor,4,None,,High,N,1,,Twenty
+8418.0,Thirty,rnd,2,Research Scientist,M,Five Thousand,2024-06-23,No,Frequently,M,16,29,3,,3,1,3,,,2,Yes,3,Twenty,Twenty
+1701.0,28,Sales,,Executive ,M,11991,2017-07-15,yes,Travel_Rarely,M,,,4,1,2,1,1,None,Five,High,Yes,3,24,Twenty
+8241.0,Thirty,Sales,2,Tech,M,Five Thousand,,Yes,Non-Travel,single,,Far,,0,3,Poor,4,None,,,No,,,
+1709.0,Thirty,Human Resources,4,Manager,F,Five Thousand,,Y,Rarely,single,1,8,High,Zero,2,2,1,None,,2,Y,3,17,
+4860.0,Thirty,,Two,Laboratory Technician,F,5939,,Yes,,Married,Ten,Near,4,,,3,4,,,3,yes,Zero,14,
+3686.0,Thirty,rnd,Two,Executive,Female,13963,2024-04-18,Y,Rarely,Single,7,25,3,,3,3,Good,,,1,Y,2,Twenty,
+8075.0,,Sales,4,Executive ,male,Five Thousand,12-05-2018,N,Non-Travel,single,,Far,2,4,Low,,,,Five,3,No,2,13,
+3083.0,24,rnd,5,Laboratory Technician,male,6285,Not Available,N,Travel_Frequently,Married,,,4,1,2,2,,,,High,,3,Twenty,
+8791.0,Thirty,Sales,5,Executive ,F,Five Thousand,2020-01-02,yes,Rarely,Divorced,16,Far,1,,4,4,Good,,,High,N,0,19,
+5324.0,,Human Resources,Two,Scientist,,,2016-10-14,yes,Frequently,,Ten,,1,Zero,4,1,3,None,,High,No,,,Twenty
+9470.0,Thirty,Sales,1,,M,,2021-08-03,,Rarely,,12,Far,3,Zero,,,Good,4,Five,4,,1,Twenty,
+8540.0,,R&D,4,Executive ,Male,11996,12-05-2018,yes,Frequently,D,,Far,,6,2,1,4,,8,3,N,3,19,Twenty
+5812.0,32,Human Resources,,Laboratory Technician,male,Five Thousand,Not Available,yes,Non-Travel,Divorced,7,30,2,0,,,2,1,12,,N,3,,
+9761.0,Thirty,Sales,Two,Executive ,,,,,Rarely,Married,7,Near,2,,,2,,,Five,4,yes,1,Twenty,Twenty
+6248.0,Thirty,,3,Executive ,F,Five Thousand,12-05-2018,Yes,Rarely,single,Ten,Near,1,,4,2,,5,10,1,N,3,,
+4470.0,Thirty,R&D,5,Research Scientist,Male,Five Thousand,2018-12-16,N,Frequently,single,,,3,Zero,4,Poor,Good,None,Five,3,Y,Zero,15,
+7087.0,35,Sales,4,Manager,F,Five Thousand,Not Available,Yes,Travel_Frequently,Married,6,Near,1,4,Low,2,2,None,10,2,yes,2,18,
+8345.0,,R&D,3,Manager,M,,12-05-2018,Yes,Frequently,Divorced,Ten,29,High,Zero,3,Poor,,None,0,High,Yes,3,,Twenty
+3623.0,Thirty,Sales,,,M,14061,12-05-2018,No,Rarely,single,15,,1,3,3,3,3,,11,1,Y,1,Twenty,37
+9317.0,,Sales,Two,Laboratory Technician,male,,,yes,Travel_Rarely,Married,,Near,1,4,3,1,1,None,,3,Yes,,Twenty,
+8584.0,35,rnd,5,Executive,Female,,,,Frequently,Divorced,Ten,Far,2,Zero,3,Poor,3,4,5,4,,3,,16
+3853.0,,Human Resources,1,Research Scientist,F,Five Thousand,2020-08-23,yes,Travel_Frequently,Single,9,,2,,1,4,3,,,4,yes,Zero,,Twenty
+3642.0,Thirty,,Two,Executive ,Male,,12-05-2018,yes,Rarely,,Ten,5,2,Zero,Low,1,,,Five,1,Yes,2,,
+1964.0,Thirty,rnd,3,Executive,M,Five Thousand,2016-08-26,N,Frequently,Single,Ten,,1,,,3,3,0,13,1,yes,2,24,
+3703.0,48,R&D,3,,male,,Not Available,No,Frequently,D,Ten,Near,4,2,2,4,4,None,,,Y,1,25,
+2000.0,,HR,5,Manager,F,,,yes,Travel_Frequently,Divorced,2,Far,High,,2,,Good,4,,,N,3,Twenty,Twenty
+1960.0,59,HR,,Scientist,F,18195,12-05-2018,Y,Travel_Frequently,Single,,28,1,,3,1,1,6,Five,,Yes,Zero,,
+3939.0,,HR,2,Manager,M,Five Thousand,,No,,single,Ten,Far,1,4,4,2,4,9,,3,N,0,,
+1646.0,Thirty,R&D,5,Scientist,Male,Five Thousand,12-05-2018,,Frequently,Divorced,0,Near,2,Zero,,4,3,9,Five,1,,1,Twenty,
+5258.0,45,Human Resources,2,Executive,Female,,2017-12-21,No,Rarely,Single,,,1,4,1,,4,None,,3,Yes,,24,
+1636.0,Thirty,Sales,2,Executive ,Female,,Not Available,Yes,Rarely,Divorced,Ten,,High,,4,1,,None,12,2,Y,Zero,17,
+1508.0,,Sales,,Research Scientist,,Five Thousand,Not Available,yes,Travel_Rarely,Divorced,5,,4,Zero,4,2,Good,None,0,2,,,,
+6168.0,Thirty,Human Resources,4,Laboratory Technician,M,Five Thousand,,Y,Rarely,single,9,,2,Zero,,,,None,Five,,Y,3,,Twenty
+6404.0,Thirty,Sales,1,Executive,M,Five Thousand,,Yes,Frequently,Married,14,Near,2,Zero,3,4,1,,Five,4,N,Zero,13,
+7025.0,Thirty,Human Resources,3,Tech,M,Five Thousand,2016-06-28,Y,Non-Travel,single,1,6,,4,4,,Good,None,5,3,N,2,Twenty,Twenty
+6429.0,50,Human Resources,2,Executive,male,5483,Not Available,No,Non-Travel,Single,Ten,Far,2,,2,3,Good,9,Five,1,N,0,Twenty,Twenty
+9347.0,,HR,,Tech,male,8427,,yes,Travel_Frequently,Married,,Near,,,1,3,1,,,High,N,Zero,16,13
+8121.0,,rnd,2,Executive,Female,19800,Not Available,,Travel_Frequently,single,,Near,1,,2,1,3,,,2,No,0,,Twenty
+2002.0,,Human Resources,4,Tech,M,,,Y,,M,,,3,,1,Poor,3,None,,,Yes,,Twenty,
+5704.0,,HR,3,,Male,,12-05-2018,N,Travel_Frequently,single,4,14,High,,2,,,,15,High,N,2,Twenty,Twenty
+9783.0,,,Two,Scientist,male,Five Thousand,Not Available,Y,Frequently,Divorced,Ten,Far,3,,,3,,None,15,3,No,,Twenty,
+8604.0,,R&D,5,Executive ,M,Five Thousand,,Y,Travel_Frequently,single,Ten,,1,Zero,1,1,4,,,4,N,2,,
+6649.0,Thirty,HR,4,Executive ,male,12011,2015-12-16,Yes,Travel_Rarely,M,13,Near,1,,3,,,None,9,High,Y,1,Twenty,Twenty
+1375.0,Thirty,,1,Research Scientist,Male,Five Thousand,2022-12-29,Yes,Rarely,D,,Far,High,3,2,3,Good,0,Five,,N,,,
+6984.0,,Sales,Two,Scientist,Male,,Not Available,N,Travel_Frequently,,Ten,Far,1,,Low,3,3,,15,2,Y,2,Twenty,
+5924.0,Thirty,,4,Manager,F,11621,Not Available,No,Non-Travel,D,8,9,,,,1,3,None,,,N,1,17,36
+8172.0,48,HR,4,Tech,Male,,Not Available,,Rarely,single,,,High,1,,4,,None,6,High,No,0,Twenty,Twenty
+7036.0,35,HR,4,Scientist,,,,Yes,Travel_Frequently,,Ten,,4,,,3,Good,None,,,Yes,0,,40
+9549.0,,Sales,5,Tech,Female,,,,,,Ten,18,High,Zero,3,1,1,None,5,,yes,0,15,
+,Thirty,Human Resources,2,Research Scientist,Female,17196,2018-12-14,No,Non-Travel,M,Ten,2,,4,1,3,,,,2,Yes,,12,Twenty
+2556.0,Thirty,R&D,4,Executive ,F,Five Thousand,Not Available,,,D,Ten,18,4,,Low,4,4,4,,1,N,Zero,,
+7838.0,Thirty,Human Resources,1,,Male,Five Thousand,,yes,Frequently,D,Ten,Far,4,,Low,1,1,,Five,1,N,2,16,
+4717.0,Thirty,Sales,4,Research Scientist,F,,12-05-2018,yes,Non-Travel,Married,Ten,Near,,Zero,Low,Poor,3,3,11,4,No,1,,
+9737.0,Thirty,Sales,,Manager,F,Five Thousand,12-05-2018,Y,Rarely,Married,,24,4,0,1,1,Good,,,3,Y,0,,38
+7115.0,,R&D,3,Research Scientist,Female,13813,2021-08-19,Y,Travel_Frequently,,0,25,High,Zero,2,1,,,Five,1,,3,,1
+3867.0,,Sales,2,Manager,Male,,2016-03-04,,Rarely,Married,5,15,3,3,,1,Good,0,Five,High,,2,,14
+6005.0,,Sales,Two,Laboratory Technician,male,19772,Not Available,Yes,Non-Travel,D,18,Near,4,4,Low,Poor,2,6,14,,Yes,2,,
+5686.0,32,Human Resources,4,Executive ,Female,5860,Not Available,Y,Travel_Rarely,Single,Ten,Near,High,,4,4,Good,None,13,3,No,1,24,2
+6329.0,Thirty,HR,Two,Tech,,Five Thousand,,yes,Travel_Frequently,single,Ten,Near,High,2,1,3,1,7,Five,3,Yes,3,17,Twenty
+6516.0,,Research & Development,,Executive ,,18872,2021-02-25,N,Frequently,Married,,Near,3,5,Low,1,2,None,13,4,yes,3,24,
+8467.0,,Sales,4,,male,Five Thousand,Not Available,yes,Rarely,D,Ten,,High,,2,1,,None,Five,High,Y,Zero,22,
+5743.0,,Research & Development,,Research Scientist,F,,Not Available,Yes,Frequently,Single,7,Near,1,3,2,1,1,,Five,High,Yes,1,21,39
+2480.0,Thirty,Sales,5,Executive,M,8553,,Yes,Rarely,Married,,,3,6,1,4,3,9,Five,High,yes,3,,Twenty
+3405.0,,Sales,,Scientist,Female,,2015-09-17,No,Frequently,Married,,Far,,,2,,Good,,,,,0,,1
+7917.0,Thirty,Sales,1,Scientist,Female,,2016-11-18,No,Travel_Rarely,,Ten,,1,Zero,,,Good,None,11,4,,0,Twenty,8
+4988.0,Thirty,Sales,3,Scientist,Female,,2024-02-02,,Travel_Rarely,M,,Near,2,2,4,,2,6,,3,,3,,Twenty
+2671.0,32,Sales,,Manager,Female,Five Thousand,12-05-2018,N,Frequently,M,,17,High,Zero,2,1,3,,,2,yes,0,20,
+6836.0,,Human Resources,2,Scientist,Male,Five Thousand,Not Available,N,Travel_Frequently,Divorced,14,Far,1,,,Poor,,,,1,Yes,3,Twenty,
+8901.0,Thirty,HR,,Executive,M,15364,2023-11-11,N,Travel_Rarely,M,,,2,Zero,1,2,,None,,1,yes,Zero,16,
+1292.0,46,R&D,1,Tech,F,16789,,N,Non-Travel,,,,,1,2,1,4,None,1,1,yes,,10,
+9038.0,Thirty,Sales,,Manager,Female,Five Thousand,,,Rarely,,,22,4,Zero,4,4,Good,None,Five,2,Yes,,Twenty,
+8061.0,26,Sales,,Tech,,Five Thousand,2022-02-26,Yes,Frequently,Divorced,12,Far,High,,2,,2,None,4,3,yes,Zero,12,16
+9989.0,Thirty,R&D,2,Research Scientist,M,Five Thousand,Not Available,yes,Travel_Rarely,M,,Near,2,,3,3,1,None,,,yes,0,,Twenty
+5335.0,35,Sales,4,Executive,male,14010,Not Available,yes,Travel_Frequently,Divorced,,Near,3,3,,2,4,0,Five,,No,3,Twenty,Twenty
+2340.0,43,Human Resources,4,Executive ,Male,5385,Not Available,Y,,M,15,27,1,6,Low,,Good,None,3,1,yes,Zero,19,Twenty
+7780.0,,HR,,Tech,F,12694,2020-08-16,,Frequently,M,,Near,1,2,3,4,Good,3,Five,2,Y,Zero,,29
+5361.0,,Sales,3,Laboratory Technician,Female,14386,2016-07-29,N,Frequently,Divorced,Ten,Far,3,3,3,1,1,None,Five,1,yes,3,Twenty,2
+,47,Human Resources,1,Executive,Female,Five Thousand,2021-01-05,Y,Non-Travel,,15,Near,3,Zero,3,Poor,Good,None,12,1,Yes,Zero,25,Twenty
+8424.0,,HR,2,Executive ,Female,15769,2024-09-01,,Travel_Rarely,Single,,,3,0,3,2,4,None,14,High,N,3,Twenty,
+2458.0,Thirty,Research & Development,Two,Research Scientist,F,16147,12-05-2018,Yes,Non-Travel,single,,,High,1,Low,2,Good,6,14,4,Yes,,14,Twenty
+1715.0,50,Human Resources,4,Tech,Female,,,,Non-Travel,D,,15,,,3,4,1,None,,,,1,,40
+9452.0,50,HR,,Tech,,,,,Travel_Rarely,D,17,15,4,4,2,,,4,Five,High,No,3,,23
+1213.0,26,Research & Development,Two,Tech,,11788,12-05-2018,N,Travel_Rarely,Married,1,Far,4,,1,3,,,13,High,Y,3,24,1
+7033.0,36,Sales,4,Laboratory Technician,Female,Five Thousand,2024-08-04,N,Travel_Frequently,,Ten,,1,6,2,2,3,7,Five,4,Yes,0,11,8
+8360.0,,Research & Development,1,Scientist,F,19695,,No,Rarely,Divorced,Ten,,4,Zero,Low,3,3,6,11,3,N,3,21,
+5671.0,32,Research & Development,4,Laboratory Technician,Male,,12-05-2018,yes,Frequently,D,Ten,Near,,Zero,1,1,4,None,Five,2,,2,Twenty,Twenty
+7284.0,40,HR,4,Laboratory Technician,M,Five Thousand,12-05-2018,Y,Travel_Rarely,Married,15,Near,,,4,3,4,8,,3,No,Zero,14,
+4807.0,57,,2,Executive,Male,Five Thousand,12-05-2018,Yes,Rarely,D,3,Far,High,,1,Poor,2,None,Five,4,Yes,3,,
+5331.0,Thirty,R&D,3,Tech,Male,Five Thousand,2021-05-15,Y,Travel_Rarely,Single,,Near,,Zero,Low,,1,7,Five,High,Yes,0,24,18
+1300.0,Thirty,,1,Executive,male,Five Thousand,,Yes,Frequently,M,,20,2,0,1,Poor,,,Five,High,,3,18,Twenty
+7887.0,25,Human Resources,2,Executive ,,,2019-03-14,Y,Travel_Frequently,Divorced,,,High,2,3,4,2,None,13,High,Y,Zero,,Twenty
+1708.0,54,HR,2,Laboratory Technician,male,7751,12-05-2018,Y,Rarely,M,,,,0,2,,4,2,Five,High,No,,19,36
+7357.0,57,,5,Research Scientist,Male,Five Thousand,12-05-2018,Y,Travel_Rarely,Married,,27,,4,2,2,Good,4,,4,No,2,Twenty,
+7970.0,,HR,2,Executive,Female,9774,12-05-2018,N,Non-Travel,M,,11,2,Zero,3,1,1,,,4,yes,Zero,24,Twenty
+6698.0,Thirty,Research & Development,1,Tech,Male,,2017-08-29,N,Travel_Rarely,,,10,2,Zero,,Poor,Good,None,,2,yes,2,16,Twenty
+3705.0,26,Sales,2,Scientist,Female,9459,12-05-2018,N,Frequently,D,13,Near,,,2,,2,None,,4,Y,3,,
+7798.0,Thirty,Sales,Two,Executive ,,3649,12-05-2018,No,,D,10,12,,,2,4,4,,Five,High,,Zero,Twenty,8
+6855.0,53,,1,Scientist,M,Five Thousand,,yes,Rarely,single,Ten,,High,2,2,,Good,None,Five,2,,0,12,
+9933.0,,R&D,5,Executive,Male,,2025-01-13,Y,Frequently,M,Ten,,4,,Low,Poor,1,3,Five,2,,3,,Twenty
+9774.0,24,HR,5,Executive ,Female,Five Thousand,2024-08-14,,Travel_Frequently,Single,Ten,23,4,,4,2,1,,,,,,23,Twenty
+1380.0,33,Sales,3,Tech,Female,16750,12-05-2018,,Rarely,D,Ten,Far,2,5,2,Poor,4,1,3,1,No,0,Twenty,
+1085.0,,rnd,,Research Scientist,M,18689,,Yes,Rarely,Divorced,,Near,,5,3,,2,,0,,No,2,,
+3438.0,,Human Resources,3,Manager,male,12961,2018-02-09,,Non-Travel,M,Ten,,3,Zero,4,3,4,,,2,Yes,1,,Twenty
+9993.0,28,Human Resources,,Manager,male,,,Y,Travel_Frequently,D,Ten,,High,,,1,,,12,High,,Zero,Twenty,36
+4388.0,Thirty,,,Tech,Male,Five Thousand,,yes,,single,,15,1,,3,4,Good,,Five,1,N,,,Twenty
+6775.0,,Research & Development,,Executive,Female,,2015-11-19,yes,Rarely,Divorced,,,2,Zero,Low,Poor,3,7,Five,2,yes,2,23,
+4030.0,Thirty,rnd,,,M,Five Thousand,12-05-2018,Yes,Frequently,single,,21,1,Zero,2,Poor,2,,,1,No,3,,Twenty
+8980.0,38,R&D,5,Manager,Female,,,No,Non-Travel,M,Ten,Near,High,Zero,1,,4,,,2,yes,,,Twenty
+2894.0,,Research & Development,,,Female,Five Thousand,Not Available,N,Rarely,,0,Near,1,,Low,Poor,2,5,,,,0,Twenty,
+5649.0,Thirty,HR,4,Executive,male,3493,2022-07-02,,Travel_Rarely,M,Ten,13,,,3,4,,None,Five,High,No,3,,Twenty
+1196.0,Thirty,Sales,5,Laboratory Technician,M,,2020-04-22,Yes,Non-Travel,D,,12,High,6,2,2,Good,None,1,1,,,10,
+9730.0,,HR,1,Executive,Female,,2020-10-07,No,Non-Travel,Divorced,Ten,28,4,,Low,1,4,,,High,Yes,1,Twenty,20
+5252.0,26,Sales,2,Manager,male,18268,12-05-2018,,,Married,20,10,High,,,3,1,3,5,4,,3,14,Twenty
+2871.0,53,HR,3,Tech,Male,7256,12-05-2018,Y,,Married,,,,Zero,2,,3,9,6,4,Yes,3,19,32
+7977.0,Thirty,Sales,,Research Scientist,male,,Not Available,N,Rarely,Divorced,,1,High,Zero,2,4,4,None,Five,3,,0,16,
+1173.0,,rnd,2,Research Scientist,,Five Thousand,2020-04-24,yes,Travel_Frequently,Married,Ten,Near,2,,Low,4,Good,None,11,,yes,1,13,
+1572.0,Thirty,Human Resources,2,,,,Not Available,Y,Travel_Frequently,M,,17,,Zero,Low,,Good,9,,High,yes,3,Twenty,
+9029.0,Thirty,Human Resources,Two,Tech,,,,Y,Travel_Rarely,Divorced,1,29,1,Zero,1,4,4,None,Five,1,Y,0,Twenty,
+6230.0,60,Sales,2,,male,,Not Available,No,Rarely,Divorced,,21,3,Zero,Low,,4,None,Five,2,Yes,3,,Twenty
+8076.0,32,Research & Development,2,Manager,,,12-05-2018,Y,Rarely,Married,,,1,Zero,2,2,1,None,0,High,,Zero,25,Twenty
+6191.0,Thirty,HR,Two,Research Scientist,Female,Five Thousand,Not Available,,Rarely,Married,19,Near,1,,1,3,1,,,2,Yes,,,
+3436.0,,Human Resources,5,Laboratory Technician,male,,12-05-2018,,,,12,8,2,3,3,,2,,Five,4,Yes,1,,Twenty
+5196.0,24,Sales,3,Tech,Female,5402,,No,,M,Ten,Far,4,0,,1,4,6,,2,No,,18,
+2927.0,Thirty,R&D,4,Manager,F,,Not Available,yes,Rarely,single,Ten,,2,,Low,,2,,Five,3,,,11,
+4685.0,,R&D,5,Manager,male,9621,2024-10-04,Yes,,Married,,Far,1,Zero,1,2,3,1,10,,yes,,,Twenty
+8713.0,Thirty,HR,2,Executive ,,7191,12-05-2018,yes,Non-Travel,single,Ten,Far,1,,Low,3,2,3,,1,,1,,3
+4469.0,,Human Resources,,Research Scientist,Female,17028,2021-09-02,Y,,Divorced,Ten,,4,Zero,1,4,3,,Five,1,No,,Twenty,
+2193.0,23,rnd,5,Research Scientist,male,18444,2024-07-15,No,Rarely,Divorced,,2,1,Zero,4,2,4,None,,3,Y,2,19,Twenty
+1933.0,,R&D,5,Laboratory Technician,Male,Five Thousand,,N,Non-Travel,Married,Ten,Far,3,,3,2,2,2,Five,4,,Zero,,
+7529.0,,,Two,Tech,male,,12-05-2018,yes,Travel_Rarely,D,19,Near,1,2,Low,4,1,,Five,1,N,,Twenty,24
+8193.0,Thirty,Sales,2,Laboratory Technician,,15615,2023-09-24,,,Married,,24,3,4,3,3,2,,Five,,yes,0,15,
+1629.0,Thirty,Research & Development,,Executive,M,5945,12-05-2018,No,Travel_Rarely,M,16,,High,,,,,None,10,2,Yes,,10,13
+2429.0,,,5,,Female,,12-05-2018,Yes,Travel_Frequently,Single,,,3,Zero,,2,Good,,Five,4,Y,Zero,15,Twenty
+5363.0,45,Human Resources,2,Scientist,M,,2022-09-10,N,,Single,,,2,4,1,2,2,None,,1,N,,,Twenty
+6450.0,,Sales,5,Executive ,Female,,2020-10-13,Y,Rarely,single,,,2,Zero,1,1,4,,,2,Yes,3,Twenty,Twenty
+3733.0,,R&D,,Executive,male,15215,12-05-2018,,,D,7,,4,Zero,4,Poor,Good,2,13,,Yes,Zero,Twenty,Twenty
+8771.0,58,rnd,5,Manager,M,,12-05-2018,No,Travel_Rarely,,Ten,29,High,,Low,Poor,2,,,High,N,0,14,12
+1168.0,Thirty,R&D,,Executive,F,,2024-11-10,Yes,Non-Travel,,15,Near,High,,Low,Poor,Good,2,4,High,No,Zero,16,Twenty
+,,Sales,3,Research Scientist,M,,Not Available,,,Divorced,4,,4,Zero,3,,1,3,,4,No,Zero,11,8
+8427.0,47,R&D,,Executive,Female,Five Thousand,,No,Non-Travel,M,,Near,3,Zero,,4,4,0,,3,N,2,Twenty,
+2964.0,30,rnd,,Tech,male,19129,Not Available,yes,Frequently,,Ten,21,,0,1,1,,None,14,2,No,0,16,Twenty
+8109.0,41,Research & Development,5,Executive ,F,,Not Available,N,Travel_Rarely,Married,Ten,Far,4,6,3,4,Good,6,10,3,,,Twenty,Twenty
+2227.0,,R&D,4,Manager,F,2232,,Y,Rarely,Single,,,,,1,2,2,None,,4,,,Twenty,24
+7292.0,50,R&D,Two,Executive ,Female,,2019-01-30,Yes,Travel_Rarely,M,Ten,Near,3,Zero,,1,4,10,,2,No,0,,Twenty
+9664.0,,,3,Research Scientist,Female,Five Thousand,,,,M,Ten,Far,High,,4,1,3,None,12,1,No,3,,Twenty
+5920.0,60,Sales,3,Executive,M,3373,2016-12-19,N,Rarely,,,Far,4,Zero,2,1,Good,9,Five,High,Yes,3,Twenty,15
+8626.0,Thirty,Research & Development,,,male,3602,,Yes,Rarely,D,Ten,Far,2,Zero,3,4,,None,Five,4,No,,Twenty,Twenty
+9328.0,46,HR,3,,,13587,12-05-2018,Y,Travel_Rarely,Married,Ten,,4,1,3,1,2,,Five,4,Yes,,,
+3505.0,Thirty,HR,3,Scientist,Male,11762,Not Available,Y,Non-Travel,M,10,Near,3,Zero,Low,4,,None,,4,,,Twenty,
+7812.0,42,Human Resources,5,Executive,F,11905,12-05-2018,N,,,Ten,Near,High,Zero,,Poor,2,None,10,2,Yes,0,,
+7913.0,,Sales,Two,Executive,Male,Five Thousand,Not Available,Yes,,single,,Far,2,,Low,3,3,None,,,Yes,Zero,18,7
+6149.0,36,rnd,4,Research Scientist,male,15087,,,Rarely,,10,Near,3,Zero,,,,,3,4,,,11,
+7240.0,,rnd,,Executive,,Five Thousand,2021-05-11,Y,Rarely,,Ten,,4,2,Low,,Good,,,High,Yes,0,,Twenty
+9946.0,37,Research & Development,Two,,M,17102,12-05-2018,,,Divorced,,21,2,Zero,Low,4,,4,Five,2,No,0,Twenty,
+2042.0,26,R&D,1,Manager,M,Five Thousand,2016-08-05,Y,Travel_Frequently,single,,Near,1,Zero,2,,1,,,4,Yes,,Twenty,Twenty
+8047.0,51,Sales,2,Executive ,Female,12703,12-05-2018,yes,Non-Travel,Married,Ten,Far,3,,1,2,1,None,Five,4,,Zero,12,
+1078.0,46,,4,,F,10367,2016-09-08,No,Travel_Frequently,Single,,Far,2,4,1,1,4,,Five,4,Y,0,22,Twenty
+4510.0,,Research & Development,,Laboratory Technician,Male,8065,2023-12-20,Y,Non-Travel,Single,4,,High,Zero,4,Poor,4,,,,No,1,Twenty,Twenty
+7423.0,33,Sales,5,Tech,Female,9829,,N,Non-Travel,single,Ten,Near,High,Zero,Low,2,2,,0,High,Y,0,Twenty,5
+8194.0,,Human Resources,2,Executive ,Male,,,,Travel_Frequently,D,,Far,2,6,4,Poor,2,None,13,High,,2,20,
+8908.0,36,,Two,Executive ,Female,2780,12-05-2018,N,,Single,,15,2,Zero,,4,,,,2,,1,,35
+9548.0,Thirty,Human Resources,5,Manager,Female,19187,12-05-2018,yes,Travel_Frequently,Single,16,30,2,,2,2,3,None,Five,3,No,2,Twenty,Twenty
+3197.0,,Human Resources,Two,Executive,Female,19765,2022-03-15,yes,Travel_Rarely,single,,Far,4,Zero,Low,,3,0,,4,N,2,Twenty,Twenty
+1449.0,,R&D,5,,,13652,,No,Frequently,Married,,,3,,3,2,1,None,12,2,No,0,25,25
+2188.0,,Human Resources,5,,Female,Five Thousand,,No,Rarely,D,,4,,4,Low,,3,6,6,1,No,,Twenty,Twenty
+,46,Sales,5,Manager,,15785,,Yes,Non-Travel,D,19,Far,1,3,2,1,1,,Five,,Y,,24,23
+3421.0,,Sales,2,Manager,F,,12-05-2018,Yes,Travel_Rarely,single,4,3,4,0,Low,2,1,None,,4,N,0,,Twenty
+3464.0,36,HR,,Tech,F,,Not Available,Y,Travel_Rarely,Single,18,Far,High,,1,3,2,0,Five,2,Yes,,Twenty,16
+4378.0,Thirty,rnd,5,Tech,M,,,N,Frequently,,Ten,,1,Zero,4,1,1,,,2,Y,0,Twenty,13
+4921.0,,R&D,Two,Research Scientist,,,12-05-2018,yes,Non-Travel,M,8,23,,0,2,3,4,None,Five,3,Y,1,19,23
+1141.0,Thirty,Sales,2,Executive ,Male,Five Thousand,,yes,Rarely,,,Near,1,Zero,,Poor,,None,Five,4,Y,2,Twenty,Twenty
+2530.0,Thirty,HR,5,Scientist,male,Five Thousand,Not Available,N,,M,9,Near,3,Zero,,,Good,,2,3,Y,Zero,Twenty,36
+8083.0,,Human Resources,,Manager,M,Five Thousand,,,Travel_Frequently,,19,,,,4,Poor,Good,,14,2,N,1,,Twenty
+5080.0,,Sales,2,Scientist,Female,Five Thousand,12-05-2018,Yes,Non-Travel,Single,0,Far,High,,4,1,2,None,Five,1,Y,2,Twenty,Twenty
+1887.0,52,Human Resources,1,Laboratory Technician,male,,12-05-2018,Yes,Frequently,D,12,6,1,Zero,,Poor,,9,11,4,Y,,,30
+1431.0,30,Sales,2,Research Scientist,Male,2207,,yes,Frequently,single,,,3,,Low,,1,,,High,Y,Zero,,15
+9874.0,28,R&D,2,Manager,,Five Thousand,,yes,Frequently,Single,Ten,Near,,0,3,1,2,None,,2,N,0,,Twenty
+8860.0,33,Sales,1,Research Scientist,,7615,2018-10-12,N,Travel_Rarely,single,12,29,High,,1,,4,,Five,1,Y,3,,Twenty
+1150.0,Thirty,R&D,,Tech,F,,12-05-2018,No,Rarely,Divorced,Ten,Far,High,,4,3,1,None,,4,No,Zero,Twenty,
+5965.0,,R&D,,,F,,Not Available,Y,Travel_Rarely,Married,,Far,4,Zero,Low,4,1,None,,High,Yes,0,,38
+6905.0,Thirty,HR,5,Scientist,M,,12-05-2018,Yes,,Divorced,4,Near,3,,2,4,3,,,High,Y,2,14,
+1241.0,,,Two,Executive,Female,Five Thousand,12-05-2018,yes,,Divorced,7,,3,Zero,4,4,4,None,,1,,3,,
+8089.0,28,Research & Development,2,Manager,F,18634,Not Available,N,Non-Travel,M,Ten,Far,High,,4,1,2,None,Five,3,,1,17,
+,,,5,Research Scientist,Female,Five Thousand,12-05-2018,N,Travel_Rarely,single,9,Near,3,0,1,3,2,7,,3,No,,,Twenty
+7545.0,Thirty,Sales,,Executive ,Female,6555,,No,,Divorced,,Near,,,2,4,4,8,11,1,yes,0,22,
+8425.0,30,Sales,5,Manager,Female,,12-05-2018,yes,Rarely,Married,Ten,,2,,4,1,4,None,Five,High,N,,,5
+3321.0,27,R&D,2,Executive ,Male,7343,12-05-2018,N,Rarely,Married,,Far,1,,4,,1,10,6,3,Yes,3,Twenty,
+2715.0,53,HR,2,Executive,M,13045,,Yes,,Divorced,Ten,Far,2,4,2,3,4,,,4,N,Zero,Twenty,7
+2518.0,,,,Tech,male,4070,2021-05-22,Yes,Travel_Rarely,,,,2,,Low,4,4,3,10,High,Yes,1,19,Twenty
+,43,HR,,Executive ,,Five Thousand,,Yes,Rarely,,20,Near,3,,2,2,3,1,1,2,Yes,1,,38
+4050.0,,,,Research Scientist,male,5269,12-05-2018,,Travel_Rarely,M,,Far,High,Zero,,2,Good,,Five,,Y,0,,Twenty
+3662.0,Thirty,HR,1,Research Scientist,Male,13839,Not Available,Yes,Frequently,M,,3,4,5,Low,2,4,3,15,,,0,,6
+4656.0,,R&D,5,Executive ,,17620,12-05-2018,,Travel_Rarely,Married,Ten,Near,3,6,2,1,1,,,1,No,,13,Twenty
+5122.0,40,Sales,3,Research Scientist,male,,2024-07-26,Yes,Rarely,Single,,,3,1,4,Poor,2,10,8,High,N,1,,Twenty
+5997.0,Thirty,R&D,Two,Manager,male,Five Thousand,12-05-2018,Yes,Frequently,Married,11,Near,,Zero,1,,1,None,9,2,No,Zero,25,25
+1818.0,21,Sales,1,Tech,,11710,,,Non-Travel,single,Ten,Near,3,Zero,Low,4,4,,9,1,Y,3,Twenty,Twenty
+7359.0,Thirty,rnd,,Scientist,male,19871,2023-03-02,yes,Travel_Frequently,M,3,12,,,2,1,1,,Five,2,Yes,0,11,27
+2719.0,Thirty,,1,Executive,,Five Thousand,2021-05-06,Y,Rarely,Married,,7,2,,3,1,1,,6,4,yes,1,,23
+5616.0,,Human Resources,1,Tech,M,,,No,,M,Ten,,,Zero,Low,,4,5,,4,yes,Zero,16,36
+8117.0,Thirty,Sales,3,,F,Five Thousand,2022-12-26,No,Rarely,,Ten,Near,High,Zero,Low,Poor,Good,,,High,No,0,,Twenty
+5788.0,51,Sales,1,Scientist,Male,18615,Not Available,yes,Non-Travel,Married,14,13,4,5,1,1,Good,9,9,2,yes,0,,5
+4904.0,49,R&D,5,Manager,Female,Five Thousand,12-05-2018,No,Travel_Rarely,Divorced,,,1,,3,Poor,4,,Five,2,Y,Zero,15,Twenty
+1042.0,Thirty,R&D,1,Manager,male,16002,,Yes,Frequently,,Ten,Near,High,3,3,,1,8,2,2,Yes,2,15,Twenty
+4127.0,23,Sales,,Laboratory Technician,Male,Five Thousand,Not Available,,Non-Travel,D,1,6,3,,Low,3,,3,5,4,Yes,,Twenty,28
+9128.0,56,rnd,Two,Tech,Male,3261,,No,Rarely,M,Ten,Far,,,1,4,1,,Five,4,Y,3,,Twenty
+9613.0,59,R&D,4,Laboratory Technician,male,10780,,Y,,single,11,,High,1,Low,4,,None,,3,yes,1,24,
+9860.0,Thirty,Sales,,Manager,F,,Not Available,Yes,Frequently,Married,Ten,18,High,4,1,2,,,Five,High,N,,,Twenty
+7855.0,Thirty,Sales,1,Manager,,6334,12-05-2018,No,Non-Travel,,Ten,Near,High,Zero,2,1,4,None,12,3,yes,3,Twenty,
+3372.0,Thirty,Sales,4,Tech,,,12-05-2018,yes,Frequently,Single,18,,4,,,4,1,,4,3,,0,22,11
+3485.0,22,Sales,2,Executive ,Female,2804,2021-06-14,No,Travel_Frequently,D,,16,High,,4,Poor,2,,Five,1,yes,2,Twenty,Twenty
+9858.0,58,Human Resources,1,,Female,,2015-07-10,Y,Travel_Rarely,Married,,Far,3,Zero,1,2,2,0,Five,3,yes,2,,Twenty
+3549.0,51,,2,Executive,F,Five Thousand,,Y,Rarely,Single,,5,High,Zero,Low,,Good,None,,2,Yes,0,Twenty,
+8040.0,27,Sales,Two,Laboratory Technician,F,,Not Available,,Rarely,Married,,,2,Zero,1,1,3,6,12,2,N,3,13,21
+8059.0,,,2,Tech,Female,2796,,Yes,Travel_Frequently,Divorced,,6,High,0,1,2,1,None,,,Yes,3,14,Twenty
+5438.0,46,Sales,Two,Laboratory Technician,male,Five Thousand,2022-08-25,yes,Rarely,Single,,,,,2,Poor,3,5,7,1,N,Zero,22,Twenty
+2122.0,,HR,Two,Scientist,male,Five Thousand,,yes,,single,,Far,3,Zero,4,2,3,None,14,2,,3,16,8
+3906.0,,rnd,3,Scientist,M,,Not Available,N,,Single,12,29,4,0,,1,,None,,,,0,15,
+7230.0,23,,Two,Research Scientist,F,Five Thousand,Not Available,No,Non-Travel,Divorced,Ten,,,,1,4,4,1,Five,,N,1,,6
+7299.0,40,R&D,Two,,,Five Thousand,,Yes,,single,,Far,3,Zero,3,4,Good,None,5,3,yes,1,Twenty,
+6827.0,,HR,5,,Male,19504,2019-02-10,Yes,Rarely,D,,,4,2,4,Poor,1,None,2,4,No,Zero,25,22
+8992.0,,rnd,,Tech,F,9608,Not Available,,,single,,,High,1,3,1,2,10,,,No,,,Twenty
+4723.0,,rnd,Two,Research Scientist,M,6639,2022-09-30,No,Non-Travel,Divorced,Ten,Near,,Zero,4,4,3,10,,2,N,3,Twenty,14
+9844.0,Thirty,,2,Manager,male,,,No,Frequently,Divorced,16,,1,5,4,3,1,10,4,2,No,Zero,,
+3944.0,Thirty,Human Resources,Two,,M,2412,,yes,Travel_Frequently,M,,Far,High,3,4,,Good,,Five,1,Y,3,Twenty,Twenty
+5156.0,Thirty,Research & Development,5,Manager,F,15697,Not Available,No,Travel_Rarely,single,,Far,3,Zero,1,3,3,1,0,2,Y,Zero,16,Twenty
+5235.0,,Human Resources,3,Manager,Male,,Not Available,,Frequently,Single,4,Far,1,1,Low,3,3,,,4,yes,0,Twenty,
+7204.0,,Sales,Two,Laboratory Technician,Female,,,Y,Rarely,Single,16,,1,,4,,1,None,Five,,N,1,21,19
+6384.0,,R&D,,Tech,,Five Thousand,12-05-2018,N,,Single,14,Near,1,5,Low,1,,None,5,High,No,0,Twenty,Twenty
+1368.0,,HR,3,Executive ,male,Five Thousand,Not Available,,Travel_Frequently,,,Far,High,6,1,4,4,,,High,yes,3,Twenty,
+6851.0,21,Sales,4,Executive,male,Five Thousand,Not Available,N,Travel_Frequently,Single,,Near,3,5,2,2,2,,,,Y,0,Twenty,Twenty
+2129.0,Thirty,,,Executive ,Male,3894,Not Available,,Travel_Rarely,single,Ten,28,,,4,1,4,None,Five,2,Yes,0,12,
+7081.0,50,Sales,5,Manager,M,Five Thousand,2017-04-13,Y,Travel_Frequently,Single,,Near,3,0,,3,4,,,1,,Zero,,
+7765.0,Thirty,Sales,1,Laboratory Technician,M,Five Thousand,,N,Travel_Rarely,,4,,2,Zero,3,2,2,,Five,3,No,2,17,25
+9236.0,36,R&D,2,,male,,12-05-2018,Y,,,Ten,Far,2,Zero,,Poor,2,None,Five,1,yes,Zero,Twenty,Twenty
+8025.0,Thirty,,4,Research Scientist,male,Five Thousand,Not Available,yes,Travel_Rarely,single,Ten,Near,3,6,Low,1,3,4,15,4,Y,2,Twenty,Twenty
+5503.0,,R&D,5,Laboratory Technician,male,2297,2017-02-09,N,Travel_Frequently,Married,,,3,Zero,4,2,4,None,Five,1,N,1,23,39
+9499.0,56,HR,Two,Laboratory Technician,Male,10804,2024-06-22,No,Rarely,Divorced,Ten,,High,Zero,2,1,4,None,4,High,yes,1,,Twenty
+8773.0,,Human Resources,,Scientist,,Five Thousand,,Yes,Travel_Rarely,D,,21,,6,1,,3,,Five,4,No,,,
+3886.0,Thirty,Sales,Two,Manager,Male,,,N,Non-Travel,Married,,Near,,Zero,1,Poor,3,8,Five,1,,Zero,16,Twenty
+3806.0,,,4,Executive,F,,12-05-2018,Y,Travel_Rarely,Married,,Near,4,1,4,Poor,,,Five,,,Zero,,
+,,Sales,3,Tech,,17354,2022-02-01,Y,Frequently,Divorced,20,,2,,2,Poor,Good,None,Five,1,Yes,3,11,39
+6139.0,32,,4,Executive ,M,,Not Available,Yes,Frequently,Single,Ten,Far,1,1,1,2,2,2,,High,N,Zero,Twenty,Twenty
+1499.0,,Sales,2,Laboratory Technician,male,,Not Available,Yes,Travel_Frequently,M,Ten,18,4,,2,1,,7,8,2,yes,2,22,Twenty
+1110.0,,Sales,2,Executive ,F,6416,2017-05-13,No,,Divorced,6,,4,Zero,Low,4,,4,6,High,No,,Twenty,
+7938.0,Thirty,,2,,M,,2024-04-30,yes,Rarely,Divorced,16,2,2,5,4,,,None,6,4,yes,3,Twenty,Twenty
+3928.0,39,,,Tech,,9010,,No,Non-Travel,Married,,,High,3,2,1,3,3,,1,,2,18,Twenty
+4392.0,34,rnd,3,Scientist,Female,12420,2016-10-22,yes,,M,Ten,22,1,,4,Poor,1,0,,1,,1,20,Twenty
+9838.0,33,R&D,4,,M,,,Y,Frequently,Married,Ten,Near,2,,1,2,1,,Five,4,Y,1,,6
+8924.0,Thirty,R&D,5,Executive,male,,Not Available,N,Travel_Frequently,single,15,Near,,2,3,1,Good,None,,,N,1,22,15
+2573.0,,,,,F,18856,2020-11-17,Y,Rarely,,,Far,3,Zero,2,3,Good,None,Five,4,N,0,,8
+7737.0,Thirty,,2,Executive ,Female,Five Thousand,12-05-2018,,Rarely,Divorced,Ten,,4,Zero,,,2,3,1,,Y,Zero,,Twenty
+9725.0,Thirty,rnd,2,Research Scientist,,Five Thousand,Not Available,Y,Travel_Frequently,Divorced,Ten,Near,3,,1,Poor,2,4,,1,No,3,Twenty,14
+6635.0,Thirty,Human Resources,1,Scientist,Male,,Not Available,N,Travel_Frequently,Divorced,Ten,Near,,Zero,Low,4,2,,Five,3,Yes,2,,18
+3846.0,,R&D,,Manager,Male,Five Thousand,,Y,Frequently,D,0,Near,,Zero,3,4,1,5,,1,Y,2,17,
+7404.0,49,Human Resources,,Executive ,F,,,N,,Single,6,,,,,,4,8,11,1,Yes,Zero,Twenty,
+9108.0,Thirty,R&D,,Executive,male,Five Thousand,2019-09-17,,Rarely,D,,,,,4,1,,None,Five,4,Yes,2,18,Twenty
+2590.0,Thirty,R&D,2,,,11795,2021-01-17,No,,M,,Near,1,,,1,Good,,,,yes,0,22,
+8678.0,,R&D,2,Executive,Male,7978,Not Available,N,Non-Travel,Single,,Near,,,4,1,3,,,3,Y,2,10,32
+6012.0,37,R&D,Two,,Female,Five Thousand,12-05-2018,,Rarely,Married,Ten,18,1,4,,1,Good,5,Five,4,Yes,,18,9
+2292.0,Thirty,Research & Development,5,Tech,male,Five Thousand,Not Available,Yes,,D,13,,3,6,1,,3,3,Five,High,N,,Twenty,
+4925.0,31,Human Resources,Two,Executive ,Female,,2024-12-02,yes,Travel_Frequently,Divorced,Ten,Far,2,,2,4,3,,Five,2,Yes,2,20,9
+3462.0,,rnd,2,Manager,Male,14942,,,Non-Travel,D,,27,High,4,1,3,Good,,Five,High,yes,,Twenty,Twenty
+4704.0,Thirty,Sales,,Scientist,Male,Five Thousand,2018-12-24,yes,Non-Travel,Divorced,0,Near,2,Zero,,Poor,,None,,2,yes,,,Twenty
+5967.0,Thirty,,,Research Scientist,F,Five Thousand,12-05-2018,N,Travel_Rarely,Married,Ten,,3,5,,2,2,None,,,yes,2,25,
+7744.0,Thirty,Sales,,Executive,male,9241,12-05-2018,Y,Rarely,Divorced,19,Far,High,,2,Poor,Good,None,10,3,Y,1,,14
+5536.0,40,Research & Development,4,Scientist,Female,,,Yes,Travel_Rarely,M,,,4,Zero,Low,,4,,12,,Y,0,,31
+9982.0,43,Research & Development,,Research Scientist,F,,Not Available,No,,Single,3,27,High,Zero,,4,3,8,,2,,0,Twenty,Twenty
+8431.0,,R&D,2,Laboratory Technician,Female,,Not Available,yes,Rarely,Divorced,Ten,Far,High,,4,,1,,,3,Y,2,Twenty,24
+7835.0,37,Human Resources,4,Scientist,male,,Not Available,Y,Travel_Rarely,Single,,,3,5,1,1,1,None,,4,N,,24,Twenty
+9873.0,,Sales,Two,Executive ,F,6223,12-05-2018,Yes,,M,20,8,2,Zero,3,3,3,,,4,yes,,,Twenty
+8754.0,Thirty,HR,,Executive,F,,,Y,Frequently,M,9,Near,,6,,1,Good,6,,High,No,0,,Twenty
+2461.0,,Sales,3,Manager,,Five Thousand,,Yes,,M,,Far,High,,4,,4,5,4,2,Yes,Zero,23,40
+4531.0,38,,3,Scientist,Male,2427,12-05-2018,No,Travel_Rarely,M,1,Far,4,Zero,1,2,3,,,3,Y,1,Twenty,
+3227.0,Thirty,Sales,1,Research Scientist,F,9581,Not Available,yes,Rarely,single,14,,,,4,3,4,10,,1,N,3,,10
+2186.0,52,Research & Development,2,Laboratory Technician,M,Five Thousand,12-05-2018,N,Travel_Rarely,D,Ten,13,4,Zero,Low,3,4,10,Five,2,yes,Zero,,23
+3830.0,54,Research & Development,5,Manager,F,Five Thousand,,No,Frequently,M,Ten,Near,1,3,,Poor,4,,3,2,No,3,,Twenty
+8907.0,,Sales,5,Executive,,,12-05-2018,,,,,,2,,3,,Good,None,7,2,Y,,,
+4130.0,Thirty,rnd,,Executive,M,,12-05-2018,Y,Non-Travel,M,Ten,Near,1,2,Low,3,Good,None,,4,Y,0,19,17
+7819.0,,,3,Laboratory Technician,male,13172,,,Travel_Rarely,Single,15,Far,4,Zero,4,1,3,None,,,No,Zero,20,40
+5103.0,Thirty,Research & Development,,Executive ,M,8915,2018-02-04,yes,Travel_Rarely,single,16,5,1,Zero,4,3,2,None,Five,High,yes,Zero,20,
+2893.0,22,Human Resources,3,,male,7949,2018-08-27,Yes,Frequently,Single,13,,2,,,2,4,6,14,3,N,1,,19
+2948.0,Thirty,Human Resources,1,Scientist,F,,Not Available,yes,Frequently,D,6,,,1,4,Poor,,None,2,4,Y,1,Twenty,
+4318.0,Thirty,Sales,5,Tech,Female,,2019-02-21,yes,Frequently,single,,18,4,6,4,Poor,1,4,,1,Yes,3,,36
+8323.0,,R&D,2,Executive,male,9811,Not Available,Yes,Rarely,Married,20,Far,3,,1,,1,5,Five,1,,1,,
+7795.0,,R&D,,Executive ,male,,12-05-2018,No,Rarely,single,,1,1,4,1,3,Good,None,,1,No,Zero,25,Twenty
+3892.0,Thirty,rnd,5,Tech,male,,2017-01-01,yes,Frequently,,17,,4,0,,Poor,2,2,1,4,yes,2,,4
+7302.0,51,,Two,Scientist,male,10580,,,Rarely,M,,Near,3,5,2,2,1,,,2,Yes,,Twenty,Twenty
+4209.0,Thirty,rnd,1,Laboratory Technician,M,,2023-09-08,No,Frequently,Divorced,Ten,Near,3,Zero,,1,3,None,Five,2,,3,,16
+2282.0,,Sales,2,Scientist,Female,,,Y,Non-Travel,M,0,6,,Zero,4,3,Good,6,,2,No,3,Twenty,22
+9561.0,,HR,4,Manager,male,,2024-03-04,,,single,19,,,,4,3,2,None,Five,4,,Zero,11,
+5977.0,Thirty,R&D,,Executive,Male,Five Thousand,12-05-2018,,,Single,Ten,Far,3,Zero,Low,3,1,,Five,,Yes,0,12,Twenty
+5395.0,Thirty,HR,2,Executive,M,,12-05-2018,Y,Travel_Frequently,M,Ten,4,,,,1,2,,,2,Y,3,,
+6214.0,Thirty,,Two,Research Scientist,M,,Not Available,,Frequently,D,,26,,,2,Poor,,,,4,N,2,13,
+4335.0,Thirty,R&D,,Manager,Male,,2022-12-05,,Travel_Frequently,Married,Ten,Near,2,5,4,3,1,,,High,Y,2,18,17
+5868.0,Thirty,Human Resources,5,Manager,Female,Five Thousand,Not Available,,Travel_Frequently,single,16,,High,3,4,,Good,9,5,High,Yes,0,10,Twenty
+9482.0,,Human Resources,,,M,,2018-08-27,N,Rarely,,1,20,3,3,Low,3,Good,None,Five,2,yes,2,,
+9323.0,,R&D,2,Executive ,M,17624,Not Available,N,Travel_Frequently,,13,8,3,3,1,2,3,6,5,High,,0,17,Twenty
+2232.0,37,Research & Development,5,,F,4313,Not Available,Y,Travel_Rarely,M,Ten,2,,3,2,Poor,4,None,11,3,Y,0,,
+9495.0,Thirty,Human Resources,4,Scientist,M,Five Thousand,,yes,Travel_Rarely,Divorced,,,,1,4,,2,,5,4,Y,0,13,24
+6679.0,Thirty,Sales,,Manager,M,,Not Available,Y,Travel_Rarely,M,Ten,Near,High,,3,,1,,11,4,Yes,,,
+5301.0,,Sales,Two,Research Scientist,Female,,Not Available,No,Frequently,Divorced,Ten,Near,3,0,3,1,Good,2,Five,High,N,3,,21
+1485.0,Thirty,HR,,Scientist,M,,Not Available,No,,M,Ten,,High,Zero,2,4,Good,None,Five,High,N,Zero,13,
+5559.0,50,rnd,2,Manager,,,12-05-2018,yes,Non-Travel,Married,,Far,1,Zero,2,3,3,,,1,No,Zero,20,Twenty
+6004.0,,HR,5,Scientist,M,Five Thousand,2024-09-21,yes,Frequently,M,,,High,2,4,Poor,2,1,,,No,0,17,
+,,rnd,1,Executive,Male,Five Thousand,Not Available,N,Frequently,Married,,,,Zero,Low,3,Good,,12,3,No,3,,
+1070.0,Thirty,Human Resources,,Research Scientist,male,,,Y,Frequently,M,Ten,Near,1,Zero,4,3,,None,8,2,N,2,,21
+7821.0,Thirty,Sales,,Laboratory Technician,F,Five Thousand,,,Travel_Frequently,M,Ten,Near,High,Zero,,1,,None,2,3,No,Zero,Twenty,Twenty
+4302.0,,rnd,Two,Executive,,9576,2023-08-26,No,Travel_Rarely,Divorced,16,Far,,0,1,3,Good,0,11,4,Y,3,16,18
+2154.0,21,Sales,2,Tech,Male,11705,2022-08-15,yes,Rarely,M,16,Far,1,0,1,2,4,,5,1,Yes,,20,
+4800.0,Thirty,Human Resources,Two,Manager,,10056,Not Available,Yes,Travel_Rarely,Married,,Near,4,,Low,1,1,None,Five,,No,2,,
+5038.0,,Research & Development,4,Laboratory Technician,male,Five Thousand,12-05-2018,,Travel_Frequently,,Ten,Far,4,2,2,4,4,,5,3,yes,0,16,Twenty
+7460.0,51,HR,5,Scientist,male,Five Thousand,12-05-2018,,Frequently,D,,Near,4,Zero,2,Poor,4,None,,3,N,2,,36
+4290.0,Thirty,Sales,2,Scientist,Male,,2022-01-01,Y,Frequently,Married,Ten,15,High,3,2,3,Good,,8,High,No,2,20,14
+3017.0,49,R&D,4,Laboratory Technician,Female,Five Thousand,Not Available,N,Frequently,,Ten,Far,2,,Low,Poor,2,1,Five,High,yes,,,
+1911.0,,Research & Development,5,,F,,Not Available,No,Rarely,single,,26,4,5,2,4,4,4,Five,,yes,2,17,37
+8535.0,,R&D,3,Executive,F,,,Y,Travel_Rarely,M,Ten,Far,4,Zero,2,1,2,,5,1,Yes,3,14,
+5690.0,Thirty,,,,M,Five Thousand,12-05-2018,yes,Travel_Frequently,single,,,High,Zero,1,4,,None,,High,,Zero,14,12
+7300.0,Thirty,,1,Research Scientist,,15481,12-05-2018,,Frequently,Divorced,,,High,Zero,4,2,,5,13,1,yes,2,25,
+3746.0,,Sales,Two,Scientist,M,16284,Not Available,yes,Rarely,,Ten,,1,4,,1,Good,,4,4,N,,15,
+4616.0,,Sales,1,Laboratory Technician,male,Five Thousand,2024-08-10,yes,Non-Travel,,,Far,1,,Low,4,4,,,3,Yes,1,Twenty,
+6355.0,20,rnd,,Scientist,Female,Five Thousand,2015-11-16,No,Travel_Frequently,D,4,Far,4,Zero,,4,2,None,,4,Y,0,,22
+7162.0,,R&D,5,Research Scientist,F,Five Thousand,2016-01-08,,,Single,4,Near,,,2,,3,None,Five,,Yes,0,,30
+3654.0,Thirty,R&D,,Executive,F,,Not Available,Yes,Travel_Rarely,D,0,Far,High,,,,,None,1,High,Y,Zero,,Twenty
+5662.0,53,rnd,3,Scientist,Male,8145,2025-04-22,N,Rarely,single,16,Near,,,Low,4,1,None,,3,No,Zero,,
+7749.0,,rnd,3,Tech,male,12659,Not Available,,Rarely,single,,Far,1,Zero,Low,4,3,None,,4,No,0,,
+5416.0,Thirty,Research & Development,3,Executive,Female,Five Thousand,Not Available,N,Rarely,,,,,Zero,2,2,Good,,6,2,yes,2,14,
+9665.0,54,HR,2,Manager,,Five Thousand,Not Available,Y,,Married,14,Far,4,,Low,1,4,,Five,2,Y,3,Twenty,27
+6663.0,Thirty,,Two,Executive ,M,,2023-02-25,Y,Travel_Frequently,single,3,,High,Zero,2,2,,None,,2,Y,0,22,Twenty
+4249.0,Thirty,R&D,4,Scientist,Female,Five Thousand,2022-04-18,No,Travel_Rarely,Divorced,18,Near,High,,2,4,2,7,14,1,No,Zero,,40
+7367.0,Thirty,Research & Development,1,Research Scientist,Female,16249,,,Non-Travel,D,7,,4,,3,2,Good,,3,,,,Twenty,Twenty
+2805.0,,,2,Tech,F,Five Thousand,Not Available,N,Travel_Frequently,,0,Far,3,Zero,1,2,3,,,2,Yes,Zero,Twenty,
+8775.0,46,Sales,1,Tech,Male,,Not Available,Y,Non-Travel,M,Ten,28,4,5,3,Poor,Good,,4,,N,Zero,Twenty,Twenty
+7874.0,45,Sales,1,Research Scientist,F,17553,,yes,Non-Travel,M,4,Near,High,,2,1,4,None,11,2,N,Zero,17,18
+7046.0,,HR,1,Executive ,Male,,2019-03-05,Y,Frequently,,Ten,,,Zero,2,4,1,None,6,3,No,Zero,,
+5474.0,29,rnd,,,Male,,,No,,single,Ten,Near,2,Zero,2,3,3,None,,1,No,,,
+8338.0,Thirty,HR,2,Scientist,Male,Five Thousand,2019-12-10,yes,Travel_Rarely,Divorced,5,26,4,Zero,3,Poor,Good,5,,1,N,Zero,11,Twenty
+5855.0,Thirty,R&D,Two,,M,14966,2024-10-31,,Rarely,Married,Ten,Near,2,,Low,Poor,4,7,1,3,No,Zero,Twenty,34
+8654.0,,Research & Development,4,Research Scientist,M,Five Thousand,2025-01-01,Y,Travel_Frequently,Single,Ten,20,,,Low,2,3,None,14,3,No,3,,Twenty
+5759.0,,HR,4,Research Scientist,male,Five Thousand,,Yes,Travel_Rarely,Married,Ten,19,3,Zero,3,3,4,2,,2,Yes,0,21,22
+7736.0,Thirty,HR,5,Executive,Male,13439,Not Available,Yes,Travel_Frequently,Single,Ten,,2,Zero,,,3,,15,1,Yes,,,
+9175.0,Thirty,Research & Development,4,Research Scientist,Male,,12-05-2018,yes,Travel_Frequently,,2,Near,2,,1,3,1,,,1,No,3,,
+3587.0,Thirty,Sales,1,Executive ,,11005,Not Available,yes,Travel_Rarely,Divorced,14,,3,6,Low,1,Good,6,,2,,Zero,21,
+9836.0,Thirty,R&D,1,Executive ,,,2019-06-20,yes,Non-Travel,Married,,,2,,Low,Poor,Good,,,3,Y,3,Twenty,
+3327.0,53,,2,Manager,male,Five Thousand,Not Available,Y,Travel_Frequently,Divorced,,,3,5,1,Poor,3,2,,2,,,,Twenty
+9298.0,28,Sales,2,Laboratory Technician,M,Five Thousand,12-05-2018,Y,Non-Travel,Single,Ten,Near,,Zero,,Poor,1,None,,,No,Zero,13,11
+6592.0,29,rnd,,Scientist,Male,Five Thousand,,Y,Rarely,single,0,25,3,,Low,3,2,4,,2,No,1,,
+9866.0,,,,Executive ,Male,17895,2023-11-01,N,Non-Travel,Married,,19,1,Zero,3,4,1,None,Five,4,Yes,Zero,,
+9252.0,55,rnd,2,Scientist,Female,18369,12-05-2018,yes,,M,,3,,0,1,1,2,5,3,High,,,Twenty,23
+9102.0,38,Research & Development,1,Research Scientist,,Five Thousand,,Yes,Rarely,Married,,,3,,,3,4,5,14,,Yes,2,,
+7642.0,Thirty,Sales,Two,Scientist,Male,,Not Available,,Frequently,Married,9,Far,,0,2,Poor,Good,,,,No,Zero,,25
+3740.0,47,R&D,5,Research Scientist,M,11769,,N,,Single,Ten,Far,High,Zero,Low,,4,8,15,1,,Zero,Twenty,
+7628.0,Thirty,rnd,4,Executive ,,Five Thousand,12-05-2018,,,M,,Far,4,,4,2,4,,Five,1,,,10,
+7783.0,,Human Resources,2,Research Scientist,F,,2021-08-10,N,Frequently,single,1,Near,4,,4,4,2,,Five,High,Yes,Zero,,Twenty
+9396.0,,HR,1,Executive ,F,15651,12-05-2018,Yes,Travel_Rarely,single,8,Near,1,,3,,4,,11,1,N,2,Twenty,Twenty
+1551.0,,Sales,4,Tech,F,Five Thousand,,yes,Non-Travel,D,Ten,30,2,Zero,,3,3,None,12,High,N,Zero,Twenty,
+8648.0,Thirty,R&D,,Tech,Male,,,yes,Travel_Frequently,single,Ten,Far,2,1,4,3,1,,Five,2,,3,Twenty,
+5706.0,,HR,Two,Executive ,M,17242,12-05-2018,,,M,Ten,,High,Zero,3,2,Good,,3,3,,Zero,Twenty,22
+8162.0,Thirty,Research & Development,1,Scientist,Female,,,N,Frequently,single,,30,4,Zero,1,4,2,0,8,3,yes,,Twenty,
+8634.0,,Sales,4,Tech,Male,,,,,Divorced,,2,,,3,4,4,0,15,,N,,Twenty,
+5251.0,,Research & Development,5,,F,Five Thousand,Not Available,Y,Travel_Rarely,Single,13,,,5,2,1,3,,,1,No,3,,4
+,51,Sales,1,Manager,,Five Thousand,2017-10-05,Yes,,,Ten,4,3,2,1,4,2,5,Five,3,No,3,,Twenty
+8682.0,Thirty,HR,5,,Male,10219,2015-10-25,Yes,Frequently,,,,,5,2,,2,None,,4,,Zero,,32
+8948.0,20,,,Manager,male,Five Thousand,Not Available,No,,D,Ten,Far,High,Zero,2,2,2,None,,2,yes,3,,2
+1376.0,,Human Resources,2,Tech,F,Five Thousand,Not Available,Y,Frequently,Married,1,15,4,1,3,2,1,,,2,Y,2,,Twenty
+4883.0,Thirty,R&D,5,Executive,,Five Thousand,2023-07-25,Yes,Travel_Frequently,D,Ten,,2,Zero,1,Poor,3,10,11,2,yes,1,22,Twenty
+5757.0,Thirty,HR,4,Tech,Male,Five Thousand,,Yes,,,,,,,2,Poor,1,,,3,No,Zero,22,4
+6946.0,,HR,1,,,15604,2022-12-03,N,Travel_Rarely,single,3,10,High,6,3,2,2,,Five,High,,,14,32
+8529.0,Thirty,Human Resources,4,Scientist,Male,Five Thousand,12-05-2018,No,,,,Near,2,Zero,,2,3,,11,3,N,,,Twenty
+5913.0,,Research & Development,2,,,Five Thousand,,,Travel_Rarely,Divorced,Ten,Far,2,2,3,,Good,10,,3,No,,12,4
+6466.0,,Human Resources,1,Manager,M,Five Thousand,,yes,Frequently,M,,Near,2,,2,1,2,,Five,1,,1,,Twenty
+4016.0,,Sales,1,Scientist,Male,Five Thousand,12-05-2018,Y,Non-Travel,D,Ten,Near,3,4,2,,4,0,,,N,Zero,,Twenty
+1992.0,35,R&D,1,Tech,male,13720,Not Available,N,Travel_Rarely,Married,18,12,,Zero,4,4,Good,,10,2,Yes,1,24,Twenty
+7763.0,34,,2,Tech,M,8789,2022-02-02,Y,,single,,Near,2,1,Low,4,2,None,,1,Yes,1,16,Twenty
+7963.0,,Sales,Two,Manager,male,13436,Not Available,Yes,,M,Ten,,High,6,3,,4,,11,4,N,0,16,Twenty
+3310.0,Thirty,Sales,3,Manager,F,Five Thousand,,,Rarely,,,20,High,Zero,2,2,4,None,15,High,No,0,Twenty,Twenty
+5936.0,57,Human Resources,,Executive,F,Five Thousand,Not Available,yes,Travel_Frequently,M,4,Far,4,0,2,3,4,None,9,3,yes,2,Twenty,40
+7664.0,,Sales,2,Executive,Male,,2016-08-20,Yes,Travel_Frequently,Married,7,,3,2,2,2,,None,4,4,yes,Zero,,10
+2011.0,28,Sales,4,Research Scientist,Female,9244,Not Available,Yes,Frequently,Married,,1,1,,2,4,1,6,,High,yes,0,,29
+9411.0,59,rnd,4,Laboratory Technician,F,,2024-09-20,N,Travel_Frequently,Single,2,29,4,3,Low,1,Good,10,9,4,N,1,Twenty,
+3209.0,Thirty,,2,Manager,,,,N,Non-Travel,Married,Ten,19,2,Zero,2,1,3,,Five,2,Y,Zero,18,7
+5862.0,39,,,Research Scientist,,Five Thousand,12-05-2018,N,,D,13,25,High,Zero,1,1,Good,,0,1,yes,2,Twenty,
+4175.0,40,R&D,1,,F,Five Thousand,Not Available,,Travel_Frequently,,Ten,Near,2,,3,Poor,1,,Five,2,Yes,3,20,34
+4339.0,,HR,3,Laboratory Technician,Female,,Not Available,No,Travel_Frequently,,Ten,,High,Zero,3,4,1,,,3,No,2,,
+8201.0,27,Sales,4,Scientist,male,,12-05-2018,yes,Travel_Frequently,,14,Far,2,5,3,,,,15,4,Y,3,,Twenty
+6405.0,Thirty,Research & Development,4,Manager,M,,2016-01-16,N,Travel_Rarely,D,Ten,5,4,Zero,,4,4,3,,High,yes,2,,33
+9355.0,Thirty,Research & Development,3,Manager,Female,,,No,Non-Travel,D,17,19,High,,1,,1,,0,4,,2,,37
+1483.0,Thirty,Research & Development,Two,Research Scientist,,Five Thousand,2017-12-22,Yes,Non-Travel,,,5,High,,Low,,2,8,12,2,No,3,Twenty,
+8282.0,,Sales,4,Executive,Male,Five Thousand,12-05-2018,N,Rarely,Single,,19,High,2,4,Poor,Good,6,1,1,Y,Zero,Twenty,37
+5989.0,36,R&D,2,Manager,,8966,,,,Divorced,7,22,2,3,Low,1,3,None,8,4,Y,3,24,21
+9414.0,,HR,3,,male,2992,,yes,Frequently,M,Ten,Near,3,2,3,1,1,10,9,3,No,,,Twenty
+8859.0,35,Sales,1,Manager,Male,11959,Not Available,N,Frequently,single,,Near,3,,1,Poor,1,,Five,4,Yes,Zero,Twenty,27
+6647.0,,Human Resources,1,Tech,Male,Five Thousand,12-05-2018,Yes,Non-Travel,Single,Ten,Far,3,5,Low,,,None,Five,High,Yes,Zero,Twenty,Twenty
+6974.0,,Human Resources,3,Executive ,M,,Not Available,yes,Travel_Rarely,Married,Ten,,,Zero,,1,2,,,3,Y,1,,34
+6408.0,60,Sales,5,Research Scientist,Male,18565,2024-07-21,No,Frequently,single,,Near,3,4,Low,Poor,1,9,Five,High,Yes,3,,6
+1157.0,44,Sales,3,,male,6117,,Yes,Frequently,,5,Far,4,Zero,,Poor,3,None,,2,Y,2,Twenty,
+8953.0,59,Sales,2,Research Scientist,F,,Not Available,N,,Married,10,Near,4,Zero,1,,1,None,Five,3,yes,Zero,Twenty,
+3793.0,52,Research & Development,4,Executive ,F,Five Thousand,,No,Frequently,Divorced,19,Near,2,0,Low,1,3,0,15,4,No,,18,
+9935.0,,Research & Development,Two,Tech,Female,19878,12-05-2018,yes,Travel_Rarely,Divorced,,,1,4,,3,4,,,1,No,3,,Twenty
+1686.0,31,Sales,3,Executive ,Male,12556,Not Available,Yes,Non-Travel,M,17,Near,High,,3,4,4,4,,High,Y,0,Twenty,Twenty
+8259.0,41,R&D,2,Manager,F,Five Thousand,Not Available,yes,Travel_Rarely,single,Ten,,2,2,Low,1,1,4,15,3,yes,3,Twenty,Twenty
+,47,Sales,2,Executive,male,Five Thousand,Not Available,Yes,Non-Travel,Single,,Far,3,2,3,Poor,3,None,Five,4,Yes,,Twenty,26
+7786.0,,Human Resources,4,Research Scientist,F,Five Thousand,Not Available,Yes,Non-Travel,D,Ten,Far,3,,4,4,Good,,,4,Y,1,18,Twenty
+7703.0,Thirty,rnd,5,,,11137,Not Available,No,Travel_Frequently,Divorced,,2,4,3,2,3,1,None,Five,High,,0,Twenty,
+,Thirty,Sales,3,Manager,F,18054,Not Available,N,Travel_Rarely,Single,,19,4,5,2,4,2,2,Five,1,Y,1,,12
+5372.0,Thirty,Research & Development,5,Executive ,,Five Thousand,Not Available,,Non-Travel,Divorced,12,1,,1,3,3,4,,1,3,Y,3,12,11
+4725.0,Thirty,Sales,5,Scientist,Male,,Not Available,N,,D,Ten,2,4,Zero,2,3,Good,0,,2,Yes,Zero,,Twenty
+8740.0,26,,1,Executive ,Male,Five Thousand,12-05-2018,,Non-Travel,Divorced,Ten,Far,,4,Low,4,3,None,,,yes,2,17,Twenty
+,,Research & Development,,Tech,male,Five Thousand,12-05-2018,No,Non-Travel,M,,Far,1,2,4,4,2,None,1,4,Yes,2,Twenty,Twenty
+3520.0,,Sales,5,Tech,Male,8835,Not Available,,Travel_Rarely,M,18,Far,,2,4,2,1,None,,,N,0,Twenty,21
+6929.0,33,Research & Development,4,,M,Five Thousand,2015-09-24,Y,Travel_Rarely,Divorced,Ten,Far,3,Zero,3,,Good,5,11,2,,Zero,13,Twenty
+5832.0,,Research & Development,Two,Executive,male,Five Thousand,2024-10-07,No,,D,Ten,Far,4,Zero,,Poor,,,Five,3,,2,24,Twenty
+5393.0,Thirty,Sales,,Manager,,Five Thousand,2021-01-17,Yes,,Divorced,Ten,Near,High,,,1,1,,Five,High,N,,,
+4541.0,Thirty,,,Research Scientist,,Five Thousand,,yes,,Single,,Far,High,Zero,2,4,2,None,,,Y,0,Twenty,Twenty
+1209.0,29,HR,3,Laboratory Technician,F,Five Thousand,Not Available,yes,Travel_Rarely,Single,,5,High,,4,2,3,None,Five,4,Yes,3,18,Twenty
+,Thirty,Human Resources,4,,F,,2019-07-15,yes,,Married,,Near,3,Zero,,,1,5,Five,1,No,3,,Twenty
+2160.0,Thirty,Sales,1,Scientist,F,Five Thousand,2020-10-02,N,Frequently,Single,6,15,4,Zero,1,,Good,,Five,1,Yes,0,Twenty,
+8790.0,52,R&D,3,Scientist,M,10014,2024-04-20,yes,Travel_Frequently,M,,Near,High,0,,3,3,9,,1,N,Zero,Twenty,
+2248.0,32,,,Research Scientist,Female,,2019-03-27,N,,,,21,1,0,,,1,4,,1,N,,Twenty,
+5350.0,,,1,Scientist,F,,,Y,Rarely,Single,Ten,,4,,4,Poor,Good,,13,3,No,1,14,
+4981.0,,,2,Manager,M,10732,,,Rarely,Married,Ten,13,,Zero,1,,2,None,8,3,No,1,17,Twenty
+8673.0,,Sales,Two,Laboratory Technician,male,14430,12-05-2018,Y,Rarely,M,,,3,4,2,1,,,,,Yes,0,,
+8958.0,Thirty,Sales,2,Executive,Male,Five Thousand,,No,Frequently,Divorced,Ten,,4,,3,1,2,7,11,3,Yes,,17,Twenty
+4363.0,,Human Resources,2,Laboratory Technician,,Five Thousand,12-05-2018,Yes,,single,19,Far,,2,Low,1,1,10,Five,3,Y,1,Twenty,40
+6680.0,,Sales,2,Laboratory Technician,,16877,12-05-2018,Yes,Travel_Rarely,Married,,Far,2,,3,4,3,None,Five,2,N,,,31
+4769.0,Thirty,Sales,Two,Executive ,M,,12-05-2018,,Travel_Rarely,Married,15,,4,6,1,Poor,Good,None,,3,Y,,,Twenty
+5754.0,Thirty,Sales,,Research Scientist,,6356,12-05-2018,yes,Travel_Frequently,,5,Far,2,,2,4,,,Five,4,Yes,2,18,
+7400.0,Thirty,rnd,1,Laboratory Technician,M,,12-05-2018,N,Non-Travel,Divorced,19,Far,4,2,,1,1,5,,3,yes,0,,
+6590.0,Thirty,Research & Development,Two,Laboratory Technician,male,,,Yes,,Divorced,Ten,16,,,1,Poor,,,,3,Yes,0,Twenty,
+3995.0,,HR,3,Manager,,,,yes,Non-Travel,,10,2,1,Zero,3,2,2,,,2,,3,Twenty,
+7103.0,,Human Resources,2,Tech,F,9936,2024-11-26,N,Non-Travel,M,18,30,4,Zero,,4,Good,6,,High,Y,,11,
+4709.0,,rnd,3,Research Scientist,,Five Thousand,2019-12-16,Yes,Travel_Rarely,single,,28,4,5,1,2,4,5,9,1,N,Zero,,27
+3226.0,48,rnd,4,Laboratory Technician,M,Five Thousand,2019-12-11,No,Rarely,M,9,,4,,2,Poor,,2,Five,4,yes,2,,
+1461.0,,Research & Development,3,,Female,2941,,yes,Frequently,D,1,Far,1,1,,3,4,7,Five,,,0,11,
+9165.0,53,HR,Two,,male,2161,12-05-2018,Y,Travel_Frequently,,Ten,Near,2,Zero,1,Poor,2,None,Five,4,Y,0,23,5
+1039.0,32,R&D,5,Laboratory Technician,male,,12-05-2018,No,Rarely,Married,15,,3,Zero,1,,3,,,2,Y,3,Twenty,Twenty
+1976.0,24,Human Resources,,Scientist,M,,2015-10-04,Yes,Rarely,Married,Ten,,4,,2,4,3,,,1,N,Zero,14,
+3273.0,Thirty,R&D,1,,Male,17360,2021-06-28,No,Travel_Rarely,M,,Near,2,Zero,3,,,9,,,Yes,,,2
+8707.0,21,Sales,,Research Scientist,F,,Not Available,,Frequently,single,,22,4,Zero,1,3,,None,11,1,Yes,0,11,Twenty
+4732.0,Thirty,rnd,4,,F,14294,12-05-2018,yes,,D,9,Far,3,,4,Poor,1,,,,Yes,0,22,23
+1532.0,42,rnd,Two,Manager,M,,,No,Rarely,D,Ten,,2,0,4,4,,None,,2,yes,2,,Twenty
+9588.0,,Sales,1,Executive,,,12-05-2018,,Travel_Rarely,,Ten,23,4,Zero,4,,2,2,,2,,2,Twenty,
+5374.0,21,R&D,3,Manager,M,Five Thousand,2022-01-18,N,Non-Travel,Divorced,20,,2,3,,Poor,2,,,3,No,2,,27
+3377.0,Thirty,R&D,3,Scientist,Male,12007,12-05-2018,N,Travel_Frequently,single,,Near,1,Zero,Low,1,1,,,4,No,3,Twenty,4
+5396.0,Thirty,Sales,4,Executive,male,Five Thousand,2017-02-22,,Travel_Frequently,D,14,Near,,Zero,3,3,Good,,,,N,0,16,15
+5955.0,,,5,Scientist,,,,N,,M,2,21,3,,4,,4,4,Five,1,No,2,10,
+9805.0,47,HR,,,,12514,2015-07-28,N,Travel_Frequently,,,,1,Zero,Low,4,2,None,,High,yes,Zero,21,Twenty
+6034.0,58,R&D,5,Tech,F,,Not Available,No,Travel_Rarely,,,,High,Zero,4,Poor,Good,None,Five,1,N,3,,Twenty
+2262.0,49,,3,Laboratory Technician,Female,Five Thousand,2016-02-15,N,Rarely,Divorced,18,Near,,Zero,2,4,1,6,0,1,,Zero,Twenty,
+2800.0,,Sales,Two,Research Scientist,Male,,2015-07-11,,Rarely,single,5,Far,1,3,Low,2,,6,7,4,No,1,Twenty,1
+9335.0,Thirty,Human Resources,1,Laboratory Technician,male,Five Thousand,12-05-2018,No,Travel_Frequently,single,18,Far,,Zero,,3,3,None,,High,yes,,,Twenty
+9973.0,29,Sales,5,Executive ,male,12226,2017-10-24,yes,Travel_Frequently,M,19,,1,,Low,4,4,3,Five,4,,,,Twenty
+8452.0,Thirty,rnd,,Scientist,Female,Five Thousand,,Yes,Travel_Frequently,D,,Far,1,1,3,2,2,10,,1,No,Zero,11,7
+8696.0,Thirty,Human Resources,5,,F,Five Thousand,2020-01-17,yes,Frequently,D,18,Near,4,5,4,2,2,,,1,yes,1,,
+9532.0,33,Sales,Two,,male,11960,2016-07-31,Y,Travel_Rarely,D,,Near,2,0,2,,4,6,9,1,yes,3,18,Twenty
+1939.0,24,Sales,2,Manager,male,16295,,Yes,Frequently,Single,,Far,4,Zero,,4,3,None,4,2,yes,,,25
+,30,rnd,1,Manager,F,14676,12-05-2018,yes,Non-Travel,Single,Ten,Far,1,6,4,2,3,2,,4,N,3,Twenty,22
+4007.0,,Research & Development,3,Tech,F,Five Thousand,Not Available,yes,Rarely,Divorced,7,Far,1,3,,4,3,10,14,1,N,3,Twenty,
+1303.0,35,rnd,2,Manager,Male,,,Y,Travel_Rarely,,2,11,4,,4,1,3,,7,3,yes,2,Twenty,Twenty
+4537.0,Thirty,R&D,Two,Laboratory Technician,Male,,2024-10-08,Y,Non-Travel,single,17,10,1,,,1,4,None,1,2,Y,3,,12
+3424.0,,rnd,2,Manager,,,2023-07-25,No,Frequently,single,Ten,,1,,,4,4,,3,4,Y,2,,
+1496.0,57,HR,2,Research Scientist,F,,,Yes,Frequently,Married,Ten,,4,Zero,4,Poor,1,,Five,,Y,Zero,,
+9696.0,,HR,1,Scientist,M,2995,,Yes,Frequently,Single,,Far,3,Zero,2,,,None,Five,4,,2,18,Twenty
+4436.0,,Sales,Two,Scientist,male,Five Thousand,12-05-2018,Y,,D,3,8,3,,2,Poor,1,4,,2,yes,,,
+2096.0,,,1,Scientist,M,10195,2017-06-25,No,,D,,Near,3,,2,4,,7,Five,4,,0,Twenty,
+5035.0,,HR,4,Tech,F,5038,12-05-2018,N,Travel_Frequently,,,Near,3,6,3,4,,0,,3,,Zero,Twenty,Twenty
+9517.0,Thirty,Human Resources,4,Manager,male,,2024-07-23,Yes,Non-Travel,Single,Ten,18,1,,1,4,3,,12,3,,3,,Twenty
+9789.0,,Research & Development,,Laboratory Technician,M,16812,Not Available,N,,single,Ten,14,High,,4,3,2,None,,High,yes,3,Twenty,16
+7050.0,46,Human Resources,,Laboratory Technician,,8847,Not Available,No,Travel_Rarely,M,,3,3,,3,,1,None,15,3,Yes,2,Twenty,
+3519.0,,Human Resources,1,Executive,male,Five Thousand,2016-09-30,,Travel_Rarely,single,,Near,,,4,,4,,Five,3,Y,0,,16
+5960.0,30,Sales,1,Manager,,9822,2016-11-20,N,Non-Travel,M,,Far,2,,Low,4,1,,Five,4,yes,1,,Twenty
+5028.0,,Sales,5,Executive ,,Five Thousand,2020-06-07,N,Rarely,Married,Ten,,2,5,4,Poor,,4,Five,High,N,Zero,Twenty,31
+6774.0,,HR,Two,Executive,Male,Five Thousand,12-05-2018,,Travel_Rarely,Married,Ten,13,3,,3,1,1,1,,3,,0,,
+6325.0,43,,4,Manager,F,15980,12-05-2018,No,Non-Travel,D,Ten,23,,Zero,3,3,3,None,8,3,yes,Zero,10,
+2808.0,,,2,Tech,,,Not Available,yes,Non-Travel,Divorced,Ten,Near,,,Low,4,Good,6,,1,Yes,0,14,Twenty
+1160.0,,,5,Executive ,Female,,12-05-2018,yes,Non-Travel,M,,Near,3,,Low,1,2,7,Five,3,N,,,
+3435.0,51,HR,,Manager,Male,4952,12-05-2018,yes,Travel_Frequently,single,,Near,1,Zero,Low,1,1,,,4,Y,3,20,
+5253.0,Thirty,rnd,2,Scientist,,10164,2023-06-23,N,,Single,4,5,,Zero,3,2,1,,4,1,,2,15,24
+4589.0,Thirty,Sales,Two,Tech,M,7192,2016-05-27,Yes,Rarely,,19,,3,3,1,3,1,None,8,1,N,0,Twenty,
+,30,rnd,4,Tech,Male,,2015-07-18,Y,Non-Travel,Single,Ten,Far,1,Zero,2,,Good,,2,1,Yes,0,,Twenty
+6646.0,45,Sales,1,Tech,Female,,12-05-2018,Y,Non-Travel,Single,Ten,Near,1,Zero,4,Poor,2,10,,,Y,2,11,
+2045.0,56,Human Resources,4,Executive,male,,Not Available,Yes,Rarely,M,11,Near,,Zero,3,2,4,,,,No,Zero,16,Twenty
+4506.0,21,rnd,2,Laboratory Technician,F,,12-05-2018,Y,Frequently,Single,,9,3,Zero,2,,2,,Five,,No,1,22,
+7125.0,,Sales,,Scientist,Male,Five Thousand,2017-03-02,No,Travel_Rarely,M,14,Far,4,0,,Poor,2,,Five,3,yes,,12,
+8432.0,42,HR,2,Tech,F,14779,Not Available,No,Travel_Frequently,Single,9,Near,4,,3,2,1,None,Five,1,No,3,Twenty,
+,Thirty,Research & Development,,Executive ,Male,15548,Not Available,Y,Rarely,Married,,23,3,,Low,,1,,5,,Y,2,,38
+8296.0,,rnd,1,Scientist,F,,,No,Travel_Rarely,Single,13,Far,2,3,,4,4,4,Five,High,,3,Twenty,Twenty
+6672.0,,Sales,Two,Tech,,9586,,Yes,Rarely,single,,Far,4,6,,4,3,7,Five,High,N,3,Twenty,31
+9190.0,Thirty,,5,Executive,F,Five Thousand,Not Available,N,,,,Near,4,Zero,4,4,3,None,4,2,No,1,,32
+4674.0,Thirty,rnd,4,Executive ,Male,Five Thousand,12-05-2018,Yes,Travel_Frequently,Divorced,,,4,5,2,4,Good,None,7,1,yes,1,,13
+5005.0,,HR,3,Laboratory Technician,,Five Thousand,,Y,Travel_Frequently,single,Ten,Far,1,,2,,,6,,,,1,,
+6790.0,Thirty,Sales,4,Laboratory Technician,F,Five Thousand,,Y,Travel_Rarely,Single,15,Near,4,Zero,,2,4,1,,1,yes,,Twenty,Twenty
+7572.0,44,Sales,5,Tech,M,,Not Available,No,Travel_Rarely,M,,Near,2,Zero,4,1,4,,4,3,Yes,Zero,,
+6782.0,,Human Resources,,,M,,2017-02-14,Y,Travel_Frequently,Married,,Far,2,Zero,1,Poor,3,5,6,1,,1,Twenty,
+7328.0,,rnd,5,Manager,,,2018-11-06,,Travel_Frequently,,Ten,4,1,Zero,3,1,1,None,,High,Yes,Zero,22,
+1830.0,,Research & Development,3,Tech,male,,12-05-2018,yes,Non-Travel,,,,High,Zero,3,Poor,4,None,,,N,,22,13
+3031.0,52,Sales,1,Research Scientist,,,,,,Single,19,Near,4,,,2,,9,Five,4,No,1,10,
+9566.0,38,Sales,5,Research Scientist,F,Five Thousand,12-05-2018,No,,Divorced,,Near,1,,4,2,2,None,15,4,Yes,1,Twenty,Twenty
+2690.0,,Human Resources,3,Scientist,F,,Not Available,Y,Travel_Rarely,,Ten,5,3,,1,3,Good,,Five,,Yes,2,Twenty,
+2966.0,Thirty,,3,Manager,Female,Five Thousand,12-05-2018,No,Frequently,Single,15,Far,1,2,4,2,3,,8,1,,2,19,Twenty
+5711.0,45,Human Resources,5,Laboratory Technician,F,14152,,,Rarely,M,Ten,Near,3,1,1,2,,8,,3,Y,0,,Twenty
+4966.0,24,,4,Manager,M,Five Thousand,12-05-2018,N,Frequently,single,4,,,Zero,3,4,Good,None,7,3,Y,2,Twenty,Twenty
+6620.0,28,Research & Development,,Executive ,Male,Five Thousand,,,Rarely,Single,,5,2,,1,Poor,2,None,,,N,3,Twenty,
+3974.0,Thirty,Sales,4,,Male,8941,12-05-2018,Yes,Frequently,Single,Ten,,4,2,4,,3,,0,2,N,0,Twenty,
+4462.0,23,Sales,4,Research Scientist,F,Five Thousand,12-05-2018,,,single,Ten,Far,3,Zero,Low,Poor,2,None,,3,yes,,13,
+9533.0,Thirty,Research & Development,5,Manager,M,Five Thousand,,Y,Travel_Frequently,D,16,Far,3,Zero,3,1,2,0,4,High,N,1,16,17
+5451.0,Thirty,R&D,,Research Scientist,Male,Five Thousand,2022-12-30,Y,Travel_Rarely,single,Ten,Far,High,4,Low,Poor,3,,,High,Y,Zero,19,
+8475.0,,HR,4,,male,3126,2019-04-14,No,Non-Travel,single,,Far,1,,3,1,4,4,14,3,No,0,23,37
+5601.0,21,,1,Executive ,male,Five Thousand,12-05-2018,yes,Travel_Rarely,M,Ten,Near,High,Zero,2,4,2,3,Five,High,,Zero,13,24
+9871.0,42,,2,Executive,F,8432,,N,Non-Travel,M,5,30,High,6,3,,1,,,High,Yes,1,Twenty,29
+1384.0,,,2,Research Scientist,F,,,No,Travel_Rarely,single,,27,High,Zero,3,,3,2,,1,No,Zero,Twenty,32
+6824.0,47,Sales,3,Executive,,Five Thousand,,No,Travel_Rarely,M,0,,,Zero,2,3,2,,Five,High,No,,Twenty,Twenty
+3943.0,31,Human Resources,5,Laboratory Technician,M,Five Thousand,,Y,Frequently,D,14,Far,High,,,2,Good,None,Five,2,yes,2,Twenty,
+7439.0,,Human Resources,3,Manager,M,11443,12-05-2018,N,Travel_Rarely,M,,Far,High,,2,2,1,,15,,Yes,Zero,Twenty,Twenty
+7327.0,Thirty,Sales,2,Tech,,Five Thousand,2018-03-04,N,Non-Travel,single,Ten,Far,3,,,3,,,Five,3,N,1,,Twenty
+4740.0,51,Research & Development,2,Manager,Female,9422,,,Travel_Frequently,,Ten,15,High,Zero,2,Poor,4,None,Five,2,Y,Zero,18,10
+5093.0,Thirty,Sales,5,Research Scientist,Female,14902,,yes,Frequently,D,,Far,,,,Poor,Good,None,14,2,No,2,Twenty,
+3912.0,21,R&D,1,,M,,12-05-2018,Y,,M,13,Far,1,3,2,1,4,,,3,N,1,Twenty,6
+8733.0,Thirty,Sales,Two,Tech,M,11890,2016-06-03,Y,Travel_Rarely,M,7,Far,1,Zero,1,2,2,5,6,,Y,Zero,Twenty,Twenty
+5197.0,Thirty,,2,Research Scientist,F,,,Yes,Travel_Rarely,single,,Far,2,2,3,2,,None,,3,yes,Zero,20,
+6723.0,Thirty,Human Resources,2,Manager,F,,,No,Rarely,,5,Far,3,,3,3,2,,13,3,No,0,19,Twenty
+9202.0,Thirty,HR,5,Manager,,Five Thousand,12-05-2018,Y,Travel_Frequently,Divorced,,21,,Zero,3,2,2,9,8,4,,0,,26
+4929.0,,R&D,3,Executive,Male,17278,Not Available,yes,Rarely,,Ten,Far,High,Zero,3,2,,,Five,1,Y,,19,
+5834.0,56,Research & Development,,Manager,,Five Thousand,,yes,Non-Travel,D,,,High,Zero,Low,,4,None,,,No,,13,
+3927.0,49,HR,5,Executive ,,,12-05-2018,yes,,Single,Ten,Far,High,Zero,3,1,1,None,Five,High,yes,2,,Twenty
+8598.0,56,Human Resources,Two,Research Scientist,Female,7873,,,Travel_Rarely,,16,Near,,Zero,3,2,3,0,Five,3,Yes,,12,11
+3817.0,33,Sales,2,Laboratory Technician,Male,Five Thousand,Not Available,yes,Rarely,D,,15,1,5,,3,4,4,Five,2,N,1,Twenty,Twenty
+,,rnd,,Manager,M,,12-05-2018,Y,Travel_Frequently,D,,Near,High,,4,2,2,,,2,,2,,18
+9755.0,,Sales,,,Male,12894,2023-05-11,No,Travel_Frequently,Divorced,20,Near,2,Zero,2,Poor,3,,Five,2,Y,1,Twenty,Twenty
+1828.0,,,Two,Manager,M,Five Thousand,,,Travel_Rarely,single,0,Far,3,Zero,4,4,4,6,15,,Y,3,13,23
+7720.0,,R&D,5,Executive ,F,,2022-11-12,No,Travel_Rarely,Single,0,,1,Zero,3,4,1,None,,3,Yes,2,,21
+2350.0,48,rnd,4,Tech,Male,Five Thousand,Not Available,No,,Single,Ten,,1,,4,1,Good,6,,High,N,,,30
+6919.0,24,Sales,2,Scientist,Male,,12-05-2018,Yes,Frequently,Single,Ten,Far,,,,4,1,,2,3,Yes,Zero,Twenty,
+1758.0,45,HR,2,,F,15824,,N,Travel_Frequently,,13,23,4,6,,1,Good,3,1,2,Y,Zero,,7
+8208.0,Thirty,Sales,Two,,male,,2015-12-14,yes,Rarely,,14,12,4,Zero,4,2,1,0,13,3,yes,2,20,
+,,Research & Development,2,Laboratory Technician,Male,Five Thousand,Not Available,,Frequently,M,Ten,Near,1,4,,3,Good,None,3,3,No,1,,
+7101.0,Thirty,,Two,Tech,F,Five Thousand,12-05-2018,,Non-Travel,Divorced,Ten,Near,2,,2,3,1,3,Five,1,Yes,3,,
+5945.0,59,R&D,5,Laboratory Technician,F,14061,,,,Married,Ten,Far,High,,2,4,Good,,Five,,N,3,15,Twenty
+8004.0,59,HR,5,Scientist,,,Not Available,yes,Frequently,M,17,23,High,,1,3,1,None,,2,yes,1,,33
+1691.0,41,Sales,3,Laboratory Technician,Male,8907,12-05-2018,yes,Non-Travel,Divorced,Ten,,1,Zero,1,3,4,8,Five,High,No,2,21,Twenty
+4450.0,45,Research & Development,Two,Research Scientist,M,Five Thousand,Not Available,yes,,Single,Ten,Near,High,3,,1,,None,,3,N,2,,Twenty
+,Thirty,HR,4,Executive ,M,,Not Available,,Travel_Rarely,,,Near,,Zero,3,2,2,None,10,1,Yes,3,,
+8290.0,,rnd,4,Laboratory Technician,Male,Five Thousand,,,Frequently,M,2,Near,2,Zero,,3,1,9,11,1,N,Zero,Twenty,4
+2832.0,50,Human Resources,Two,Laboratory Technician,,12410,Not Available,N,Travel_Frequently,single,14,Far,,,2,2,Good,None,Five,4,N,1,24,38
+7964.0,,Sales,2,Research Scientist,,Five Thousand,Not Available,No,Travel_Frequently,M,,Near,High,,1,1,2,9,,,No,1,20,
+8817.0,Thirty,rnd,2,,male,Five Thousand,12-05-2018,Y,Non-Travel,Single,1,Near,4,5,3,4,Good,8,Five,,Y,3,,Twenty
+8339.0,,,2,Scientist,F,12036,,Y,Frequently,single,,Far,,Zero,2,1,3,7,Five,3,No,1,,
+1684.0,Thirty,Sales,Two,Research Scientist,F,12660,12-05-2018,Y,Rarely,M,5,Near,4,Zero,,3,1,2,13,2,No,0,,
+2908.0,38,HR,2,Research Scientist,Male,,12-05-2018,,Frequently,Married,9,,,Zero,Low,3,1,,14,2,Y,Zero,Twenty,20
+2820.0,,Research & Development,4,Manager,F,,12-05-2018,,Rarely,Single,Ten,20,4,,Low,1,1,7,Five,3,yes,1,21,Twenty
+5434.0,58,,3,,male,3123,,N,Non-Travel,M,16,Far,2,Zero,,4,2,0,1,3,,Zero,,
+9341.0,Thirty,,4,Research Scientist,F,2448,,yes,,Single,,Far,,4,Low,2,4,None,,1,Y,2,Twenty,31
+7825.0,33,,3,Executive,M,Five Thousand,,N,Travel_Rarely,Divorced,,,,4,2,4,2,,Five,4,yes,Zero,13,Twenty
+7859.0,59,Research & Development,,Laboratory Technician,F,Five Thousand,2017-12-24,,Non-Travel,Single,Ten,Near,2,4,3,4,1,10,,4,No,0,12,25
+5585.0,,Sales,5,Executive,M,,12-05-2018,,Frequently,,11,Near,,6,Low,Poor,4,None,Five,4,,3,,
+4636.0,Thirty,Research & Development,Two,Executive,male,,2020-01-11,No,Non-Travel,Divorced,,29,4,5,4,2,,None,Five,4,N,,,Twenty
+1442.0,26,Research & Development,,Laboratory Technician,Female,,12-05-2018,N,Travel_Frequently,Married,5,,3,3,4,4,4,None,Five,2,No,,,Twenty
+9386.0,26,Human Resources,1,Scientist,M,2334,,Y,,Divorced,Ten,Far,,Zero,4,,1,None,8,,Y,0,15,14
+6913.0,Thirty,R&D,5,Scientist,,18920,12-05-2018,yes,Travel_Frequently,D,Ten,Far,High,Zero,3,,1,5,Five,High,Y,1,Twenty,
+4920.0,58,rnd,3,Research Scientist,Female,,12-05-2018,Yes,Frequently,,,Far,High,,4,4,1,,7,,,Zero,18,
+7064.0,26,R&D,,Research Scientist,male,,,yes,,single,Ten,Near,2,,Low,3,3,1,Five,High,Y,Zero,,6
+1473.0,,Human Resources,1,Scientist,Female,2113,12-05-2018,N,,Divorced,,Near,High,6,3,,4,,0,,Yes,2,22,2
+7699.0,Thirty,rnd,1,Manager,M,Five Thousand,12-05-2018,yes,Rarely,Divorced,Ten,19,,5,1,,2,,Five,High,,2,,Twenty
+2534.0,30,Human Resources,,,M,Five Thousand,,yes,Rarely,Single,5,,2,,2,2,Good,3,,3,,0,,Twenty
+4770.0,Thirty,Research & Development,Two,Research Scientist,male,Five Thousand,2017-05-31,Y,Non-Travel,Single,,Far,,Zero,2,,1,1,8,,yes,2,Twenty,10
+9349.0,,Sales,4,Tech,M,,2016-12-01,N,Rarely,,Ten,Far,4,1,4,Poor,2,None,Five,4,N,3,,Twenty
+4812.0,Thirty,Human Resources,3,Manager,M,12099,12-05-2018,N,Non-Travel,M,,Near,1,2,,4,3,,Five,,N,0,,2
+5439.0,,Sales,Two,Research Scientist,,7484,Not Available,No,Travel_Rarely,D,Ten,30,High,Zero,4,Poor,4,,,,,0,Twenty,
+7158.0,54,rnd,Two,Executive,Female,Five Thousand,2025-06-22,Y,Rarely,,,Near,High,Zero,,,2,,,2,,1,,40
+,Thirty,,3,,F,,,Yes,Travel_Rarely,Married,,30,High,,2,2,3,,7,4,Yes,,,
+4308.0,,R&D,3,Executive ,F,,Not Available,Y,,Single,Ten,Far,3,,2,1,4,,,1,No,2,,31
+3437.0,21,HR,5,Tech,M,13611,2023-09-29,No,Non-Travel,Married,,,1,Zero,1,4,Good,None,,4,No,0,,5
+5776.0,,HR,2,Executive,Female,,Not Available,Yes,,D,Ten,28,3,Zero,3,3,3,None,,1,N,1,,
+2943.0,40,rnd,Two,Research Scientist,F,12095,2021-09-11,N,,Married,1,30,,1,4,,Good,0,,,Y,0,Twenty,Twenty
+4190.0,,Sales,5,Laboratory Technician,male,16755,,Y,Non-Travel,single,2,Far,High,Zero,,1,Good,4,Five,3,Y,1,Twenty,8
+5651.0,,,Two,Executive ,Female,,,No,,Married,8,Near,2,,3,,2,6,,1,yes,2,,
+5697.0,,Sales,2,Research Scientist,male,Five Thousand,12-05-2018,Yes,Travel_Rarely,Married,,,,,2,Poor,3,None,Five,1,No,2,14,
+4424.0,,Human Resources,1,Executive ,Female,Five Thousand,,Yes,Travel_Rarely,M,11,Far,3,4,Low,1,2,10,Five,4,No,,24,6
+3028.0,Thirty,HR,5,Executive,Female,2664,12-05-2018,Y,Travel_Frequently,D,Ten,,3,Zero,1,,4,None,Five,High,Yes,,Twenty,Twenty
+3174.0,Thirty,Research & Development,3,,M,Five Thousand,2022-02-13,N,Non-Travel,Divorced,,22,High,0,Low,,Good,,Five,3,Y,Zero,,
+8940.0,Thirty,,,Executive,F,6864,12-05-2018,yes,,Divorced,Ten,Far,3,,2,4,4,8,1,1,N,,Twenty,Twenty
+4953.0,Thirty,HR,,Manager,,,,Y,Frequently,Divorced,8,,1,4,2,4,1,7,Five,1,No,3,Twenty,
+6926.0,,HR,Two,Tech,F,18412,Not Available,,Non-Travel,,12,Far,4,Zero,3,Poor,Good,None,,4,,Zero,Twenty,25
+9069.0,Thirty,rnd,2,Research Scientist,M,,,yes,Rarely,Married,16,Near,1,,,2,4,,,1,Y,2,14,24
+3685.0,Thirty,Sales,1,Scientist,F,14584,Not Available,,Non-Travel,,,21,High,Zero,Low,3,Good,,,High,No,Zero,22,
+5668.0,Thirty,Research & Development,3,Research Scientist,,,2016-10-28,Yes,Travel_Rarely,Married,,22,4,2,2,1,1,0,,2,Y,3,,Twenty
+5458.0,41,Sales,Two,Research Scientist,F,4768,12-05-2018,No,Frequently,,10,Near,1,,Low,1,Good,9,0,,No,1,Twenty,3
+1162.0,,rnd,5,Research Scientist,F,,,N,Rarely,Married,15,Far,4,Zero,Low,2,4,3,14,1,Y,Zero,,3
+8851.0,42,Sales,1,Executive,M,,Not Available,Yes,Frequently,M,,Far,,Zero,4,,Good,8,8,1,Yes,3,Twenty,4
+7099.0,,Sales,5,Scientist,Male,,12-05-2018,No,Travel_Frequently,,Ten,,1,,,3,4,2,Five,4,yes,2,,
+4802.0,43,HR,Two,Research Scientist,male,,12-05-2018,yes,Travel_Rarely,Single,15,Far,4,5,Low,4,1,None,Five,4,,2,,Twenty
+6732.0,,rnd,4,Manager,Male,Five Thousand,2023-08-15,No,Frequently,single,4,Near,High,Zero,1,3,3,,8,High,yes,2,,25
+7844.0,,Sales,,Executive ,F,Five Thousand,12-05-2018,yes,,Married,,Far,,1,3,4,2,9,5,3,No,Zero,Twenty,Twenty
+4804.0,,,,Research Scientist,male,,2019-05-30,,Frequently,Single,Ten,,1,Zero,1,Poor,2,None,Five,High,N,2,11,
+4114.0,57,HR,5,Executive,,Five Thousand,12-05-2018,Y,Non-Travel,Married,Ten,,1,2,4,Poor,1,None,Five,1,,0,,10
+8027.0,Thirty,Sales,5,Manager,male,10670,12-05-2018,N,,,,Far,4,0,1,Poor,1,,,2,,,15,
+6243.0,Thirty,Research & Development,1,Executive ,F,Five Thousand,12-05-2018,Y,Frequently,D,Ten,Far,2,4,4,,4,,,High,yes,0,20,
+3345.0,Thirty,Sales,Two,Tech,F,5478,12-05-2018,No,Travel_Rarely,M,Ten,21,3,,3,Poor,2,,,4,Yes,,18,
+5808.0,Thirty,HR,1,Manager,male,Five Thousand,12-05-2018,N,Travel_Rarely,single,,,2,6,1,1,2,None,15,,No,0,,27
+4203.0,51,,5,Executive,male,Five Thousand,,No,Travel_Rarely,Single,,,4,,Low,4,2,2,,4,No,0,,23
+5147.0,,,3,Scientist,F,,Not Available,No,,Married,,15,1,4,2,1,Good,None,,High,yes,,Twenty,
+5346.0,59,Research & Development,5,Research Scientist,M,18221,2018-03-03,No,,Married,Ten,Near,1,,,,,6,Five,,Yes,3,,
+5537.0,52,Research & Development,4,Executive,Male,Five Thousand,12-05-2018,,,M,Ten,Near,1,,1,1,2,None,Five,,yes,2,Twenty,Twenty
+8752.0,,Sales,Two,Scientist,Female,17997,12-05-2018,Yes,Rarely,,,Far,4,Zero,3,3,3,2,Five,,N,,,
+6611.0,,HR,2,Scientist,Male,Five Thousand,2024-05-26,yes,Non-Travel,D,Ten,,3,Zero,2,,3,,Five,4,Y,3,,11
+9110.0,Thirty,,1,Executive,male,Five Thousand,Not Available,Yes,Frequently,D,Ten,27,3,Zero,,1,,,Five,,N,2,,
+7725.0,,rnd,1,Tech,male,3869,2023-08-21,No,Non-Travel,Married,,Far,4,,,4,1,None,,,,0,Twenty,Twenty
+6890.0,,Human Resources,2,Executive ,Female,Five Thousand,,No,,Married,,2,3,Zero,2,1,1,None,Five,3,N,,23,
+9551.0,Thirty,,1,Executive,male,15983,,Y,Frequently,Single,Ten,,4,5,1,4,,0,Five,1,No,1,11,Twenty
+1469.0,23,Human Resources,5,Scientist,Male,Five Thousand,12-05-2018,Y,Non-Travel,single,4,,4,,4,4,1,None,,4,Y,2,15,8
+5203.0,,Sales,1,Manager,M,2249,,,Non-Travel,D,12,Near,1,Zero,1,4,,4,5,2,N,,,13
+5504.0,33,rnd,1,Laboratory Technician,M,Five Thousand,,,,D,Ten,23,4,3,,4,,None,15,High,yes,,,Twenty
+9325.0,Thirty,,1,Executive ,male,13290,2018-10-20,Yes,Non-Travel,D,17,Near,,Zero,Low,3,2,None,,2,Y,Zero,,Twenty
+6316.0,45,,5,Manager,,Five Thousand,12-05-2018,N,Frequently,M,,Near,High,,3,1,1,9,13,,N,3,Twenty,30
+8489.0,42,Human Resources,,Research Scientist,,,2016-09-17,No,Non-Travel,,,16,3,,4,4,Good,,,3,,3,Twenty,Twenty
+5347.0,,Human Resources,2,,Female,,12-05-2018,No,,D,Ten,,4,,3,,3,,0,,Y,0,,
+1810.0,48,HR,1,Research Scientist,,Five Thousand,2023-07-10,Y,Frequently,Divorced,,5,1,Zero,Low,,1,9,3,1,,3,Twenty,
+7201.0,Thirty,Human Resources,1,Executive,Male,Five Thousand,Not Available,N,Travel_Rarely,,,,,Zero,4,4,1,3,,,N,Zero,22,37
+8688.0,,rnd,2,Laboratory Technician,Female,Five Thousand,Not Available,Y,Travel_Frequently,Divorced,2,,High,4,1,,4,10,Five,1,,2,Twenty,29
+3369.0,Thirty,HR,1,Executive,F,,,yes,Rarely,Married,Ten,14,1,Zero,,2,4,5,10,2,Y,Zero,Twenty,21
+3633.0,Thirty,Research & Development,4,,F,9389,,Y,Non-Travel,,Ten,12,2,1,Low,Poor,3,6,9,High,,3,,30
+5018.0,36,Sales,5,Manager,male,,12-05-2018,,Frequently,Single,4,Near,High,,1,,1,,11,3,,Zero,Twenty,
+8363.0,,HR,3,Laboratory Technician,M,7738,12-05-2018,,,single,14,12,3,,3,Poor,3,2,Five,1,,1,,Twenty
+7179.0,,R&D,Two,Scientist,,Five Thousand,2016-06-15,yes,Frequently,Single,Ten,Near,1,Zero,,,2,9,Five,,,2,,19
+4222.0,35,R&D,4,Research Scientist,M,Five Thousand,12-05-2018,,Travel_Rarely,M,,24,3,Zero,1,4,2,None,Five,,Y,1,,39
+2957.0,Thirty,Sales,1,Research Scientist,Female,Five Thousand,12-05-2018,yes,,Single,,,,5,4,,4,None,,,Yes,1,Twenty,40
+5003.0,31,rnd,4,Tech,,Five Thousand,12-05-2018,Yes,Travel_Rarely,M,5,Near,3,,4,,4,None,Five,2,Yes,1,,13
+5692.0,,HR,5,Executive ,M,Five Thousand,,N,Rarely,single,Ten,Far,3,Zero,,3,Good,None,Five,1,Yes,1,Twenty,
+,,,4,Executive,male,Five Thousand,Not Available,Y,Frequently,Single,Ten,Far,High,,2,1,2,,,,Y,3,,10
+8625.0,46,Sales,4,Executive ,Male,,Not Available,,Travel_Rarely,Single,Ten,26,2,Zero,3,2,,None,Five,,No,0,,24
+2263.0,Thirty,Research & Development,5,Manager,F,Five Thousand,2023-11-13,No,Travel_Frequently,,,Far,4,2,2,,3,,Five,2,,Zero,,Twenty
+7481.0,Thirty,,4,Executive ,male,Five Thousand,Not Available,Yes,Travel_Rarely,Divorced,,1,1,,Low,1,2,None,,High,Y,2,,3
+9483.0,35,,5,,Female,Five Thousand,Not Available,Y,Travel_Frequently,,,,High,4,,Poor,3,7,10,High,Y,,16,Twenty
+1998.0,Thirty,,2,Laboratory Technician,male,Five Thousand,2019-11-26,Y,Rarely,Married,Ten,Near,,0,,4,3,6,7,4,Yes,Zero,Twenty,21
+7557.0,,Sales,2,Laboratory Technician,,3559,2021-05-19,yes,Non-Travel,single,Ten,Near,,Zero,3,,Good,None,,4,Yes,,18,Twenty
+7758.0,,Research & Development,3,,Male,,Not Available,No,Travel_Rarely,,Ten,,3,,2,1,Good,8,Five,4,yes,,Twenty,6
+3235.0,,Sales,2,Research Scientist,F,,12-05-2018,,Rarely,Married,Ten,10,,Zero,,3,2,,11,High,Yes,1,Twenty,
+9896.0,Thirty,Sales,5,Scientist,Female,,12-05-2018,,Travel_Frequently,D,,24,3,Zero,,2,,0,8,3,Y,2,11,Twenty
+5250.0,29,Sales,Two,,F,Five Thousand,Not Available,Yes,Rarely,Single,,Near,4,4,,2,Good,,4,2,yes,0,11,
+9845.0,Thirty,Human Resources,2,Laboratory Technician,Female,14031,,Y,Frequently,,,Near,4,1,1,4,3,2,,2,No,3,Twenty,Twenty
+2629.0,Thirty,Sales,1,Laboratory Technician,male,13022,12-05-2018,No,Non-Travel,Married,10,Near,High,,3,3,2,9,Five,4,No,Zero,,16
+4100.0,Thirty,rnd,4,Executive ,F,17666,,Y,Travel_Rarely,M,Ten,30,,,3,Poor,3,,1,,No,1,,
+7898.0,48,,3,Tech,M,,2019-12-08,,Rarely,D,14,16,1,3,,Poor,,2,,,,,,
+5742.0,45,R&D,1,Executive,M,Five Thousand,,No,Rarely,,,16,4,,4,,4,None,,High,yes,2,16,
+,Thirty,rnd,,Executive,Male,Five Thousand,,yes,Frequently,Single,Ten,Far,4,4,2,4,1,4,13,3,Yes,1,Twenty,32
+1913.0,,HR,4,,Female,Five Thousand,Not Available,yes,,Married,,,High,6,3,4,,7,Five,High,Y,1,Twenty,
+5709.0,,Sales,3,Tech,,Five Thousand,Not Available,N,Frequently,Divorced,Ten,Far,1,Zero,4,3,2,None,5,2,,2,Twenty,Twenty
+7948.0,,Sales,5,Manager,F,Five Thousand,12-05-2018,No,,Married,6,Near,2,Zero,4,4,,None,Five,,,,Twenty,
+8410.0,28,rnd,2,Executive ,F,Five Thousand,Not Available,,Non-Travel,Married,,Near,3,,,Poor,Good,None,,1,N,Zero,,
+1323.0,,HR,,,Male,,,N,Non-Travel,M,9,Near,1,,4,Poor,2,,Five,3,,2,Twenty,
+4539.0,,R&D,3,Research Scientist,male,Five Thousand,12-05-2018,,Travel_Frequently,Single,,Far,2,2,3,3,4,1,,2,N,0,,Twenty
+1791.0,36,Sales,4,Executive ,Male,18721,12-05-2018,Y,Rarely,Married,,12,3,6,2,3,,,13,1,No,1,,Twenty
+1465.0,Thirty,Human Resources,3,Manager,F,,12-05-2018,N,Frequently,single,,,4,Zero,Low,3,2,,,4,Yes,1,Twenty,
+9633.0,,Human Resources,5,Scientist,Female,,Not Available,N,Frequently,Single,18,29,4,4,,2,Good,8,14,,No,Zero,Twenty,39
+1446.0,,Research & Development,,Scientist,,Five Thousand,Not Available,Yes,Travel_Rarely,single,Ten,Far,2,0,1,,4,None,Five,High,Y,3,20,15
+9504.0,41,Human Resources,1,Executive ,Male,,Not Available,Yes,Travel_Frequently,Married,16,Far,,Zero,3,4,Good,None,Five,4,Yes,0,Twenty,37
+9640.0,Thirty,rnd,5,Executive ,,5743,,yes,Non-Travel,Divorced,Ten,Far,High,2,,1,,4,Five,4,yes,,Twenty,
+4161.0,,Sales,,Executive,M,Five Thousand,12-05-2018,N,Rarely,single,10,1,4,6,1,2,,1,Five,2,Y,,20,Twenty
+4827.0,40,Sales,3,Executive,,4182,2019-09-28,yes,,Married,,,2,,,1,4,None,,1,yes,,18,
+5067.0,,Research & Development,1,Executive,male,9745,2017-11-15,Yes,Frequently,,Ten,,3,Zero,1,Poor,,2,9,4,Y,2,,
+4822.0,Thirty,rnd,5,Scientist,Female,Five Thousand,Not Available,Yes,Travel_Rarely,Single,Ten,Near,3,1,1,2,2,None,,,No,2,11,12
+5141.0,,R&D,1,Tech,,15947,,No,Non-Travel,D,Ten,9,2,,Low,3,4,,Five,2,N,3,,
+7604.0,,Sales,2,Tech,M,Five Thousand,12-05-2018,,Travel_Frequently,D,6,23,3,,1,1,Good,,,,Yes,1,Twenty,Twenty
+1603.0,28,Research & Development,4,Executive,M,,2021-01-09,No,Travel_Frequently,D,20,,High,3,4,,1,None,,4,Yes,,24,
+5859.0,,Sales,5,Manager,,Five Thousand,,Yes,Non-Travel,,Ten,Far,,,4,,1,None,6,1,Y,,20,
+8225.0,42,Sales,1,Executive ,Female,,12-05-2018,,Travel_Frequently,Married,Ten,Far,4,Zero,3,1,3,None,Five,,No,1,16,
+4334.0,,Research & Development,2,Executive,M,Five Thousand,12-05-2018,N,Frequently,Married,16,Far,1,Zero,1,4,2,None,,1,Yes,0,,
+2761.0,,rnd,5,Executive ,,Five Thousand,12-05-2018,Y,Travel_Frequently,Single,,Near,,6,Low,1,,,,4,Y,0,Twenty,28
+3051.0,Thirty,,2,Manager,F,,12-05-2018,yes,Rarely,D,,17,,Zero,Low,3,1,0,,High,Y,3,,24
+9583.0,27,Research & Development,4,Executive ,F,Five Thousand,Not Available,No,Frequently,Divorced,1,Far,3,,3,1,1,,10,2,N,1,Twenty,8
+2001.0,Thirty,Research & Development,3,Laboratory Technician,,7054,2019-06-01,yes,Non-Travel,D,0,Far,High,,3,2,1,1,,2,Yes,1,,
+8017.0,,Research & Development,,Scientist,male,19738,12-05-2018,No,Travel_Rarely,M,Ten,Near,High,,4,,Good,4,,High,No,3,Twenty,35
+4985.0,,rnd,2,Tech,M,3212,Not Available,N,Travel_Rarely,D,,Near,1,6,3,Poor,2,None,Five,3,,3,22,Twenty
+4149.0,,R&D,4,Research Scientist,Male,Five Thousand,2023-12-21,yes,,M,7,Near,2,1,2,,Good,,,3,N,,11,Twenty
+8518.0,,Sales,Two,Tech,M,Five Thousand,2023-05-06,No,Travel_Frequently,D,,,1,Zero,Low,3,3,,6,4,No,,,Twenty
+6372.0,Thirty,Sales,5,Executive,Female,Five Thousand,12-05-2018,,Travel_Rarely,M,,2,2,Zero,2,,4,,Five,1,Yes,3,Twenty,16
+5435.0,Thirty,HR,2,Executive,,,2018-08-03,yes,,single,Ten,Near,3,Zero,1,Poor,1,,13,High,Y,Zero,Twenty,21
+7020.0,Thirty,R&D,,Manager,M,,Not Available,,Non-Travel,D,15,12,2,5,2,2,2,,,4,,2,Twenty,
+3076.0,Thirty,,2,Manager,Female,16697,Not Available,Y,Travel_Rarely,single,3,,4,5,4,4,3,3,Five,3,Y,1,,31
+6978.0,,Human Resources,Two,Laboratory Technician,Male,19104,12-05-2018,Y,Frequently,Divorced,,Far,2,4,3,4,1,5,0,,Yes,1,22,12
+2124.0,36,HR,Two,Executive,M,Five Thousand,Not Available,yes,Rarely,single,,20,4,,,4,1,None,7,High,N,,,Twenty
+4886.0,,Human Resources,2,Executive,,Five Thousand,,,Non-Travel,Single,,Near,3,2,2,2,Good,None,1,High,,,Twenty,3
+1523.0,,R&D,3,Executive,male,Five Thousand,Not Available,,Travel_Frequently,M,,2,4,,,2,,4,Five,High,Y,0,Twenty,Twenty
+8030.0,Thirty,Human Resources,2,Scientist,male,10797,12-05-2018,Y,Travel_Frequently,D,,,1,6,3,,,None,Five,4,,,Twenty,32
+5494.0,Thirty,rnd,4,Research Scientist,,Five Thousand,,yes,Non-Travel,Single,,11,4,Zero,2,2,3,,,2,Y,3,12,
+9351.0,43,,1,Executive ,Female,,Not Available,N,Travel_Frequently,D,3,,High,,3,Poor,Good,,,3,yes,Zero,13,Twenty
+3353.0,49,R&D,5,Executive,male,9358,2023-05-02,Yes,Travel_Rarely,single,4,Near,1,,2,Poor,Good,None,,3,N,1,,Twenty
+6535.0,Thirty,,5,Manager,,,,No,Rarely,M,4,Far,3,5,4,4,3,None,Five,3,Yes,0,10,Twenty
+6580.0,40,Sales,5,,Female,Five Thousand,,No,Frequently,Married,5,Far,,,2,3,1,None,Five,High,yes,Zero,Twenty,25
+3603.0,Thirty,,1,Research Scientist,F,Five Thousand,Not Available,Y,Travel_Rarely,Single,Ten,,,,Low,Poor,1,8,Five,1,yes,,Twenty,8
+7777.0,35,Research & Development,,Research Scientist,F,,Not Available,Y,Rarely,single,,12,3,5,3,3,,,Five,,,3,,40
+5306.0,Thirty,Research & Development,2,Scientist,Female,11152,,No,Frequently,Divorced,Ten,Near,4,5,,3,,None,Five,4,Y,2,,
+6918.0,Thirty,HR,Two,Executive ,F,,12-05-2018,yes,Non-Travel,,Ten,23,High,Zero,Low,4,1,,Five,High,,Zero,19,Twenty
+3594.0,Thirty,rnd,1,Scientist,Female,13631,,Yes,Rarely,Single,Ten,Near,2,,2,4,,None,8,,Y,Zero,11,26
+4998.0,24,Sales,2,Laboratory Technician,F,10162,,yes,Rarely,M,19,Near,3,,,1,3,1,,4,Yes,Zero,,
+1055.0,Thirty,Sales,,Manager,male,Five Thousand,12-05-2018,yes,Non-Travel,single,13,,2,,2,,2,None,9,High,Y,2,17,
+8915.0,44,Research & Development,2,Tech,Male,15034,,Y,Frequently,Married,Ten,4,High,1,Low,Poor,2,None,,2,Y,Zero,,Twenty
+1275.0,,HR,,Laboratory Technician,,Five Thousand,Not Available,N,Rarely,Single,0,Far,1,Zero,Low,,3,,Five,,Yes,3,Twenty,14
+6383.0,Thirty,Sales,1,Laboratory Technician,M,Five Thousand,12-05-2018,N,Frequently,Divorced,Ten,Near,1,,4,2,4,None,Five,1,N,2,Twenty,Twenty
+1669.0,,,5,Laboratory Technician,Female,,Not Available,,Travel_Rarely,single,,12,4,Zero,Low,Poor,Good,10,,High,Yes,3,,Twenty
+9759.0,Thirty,,Two,Tech,Male,,2022-03-13,yes,Frequently,M,,,2,Zero,,Poor,1,1,Five,4,,0,Twenty,Twenty
+1765.0,,Research & Development,,,F,,Not Available,Yes,Travel_Frequently,Divorced,,1,4,Zero,Low,4,1,,Five,High,N,Zero,,
+5044.0,,rnd,Two,Tech,M,7382,2024-05-02,Yes,Travel_Rarely,,11,Near,High,Zero,Low,4,3,,Five,High,Yes,Zero,Twenty,
+8026.0,Thirty,Research & Development,4,Executive,F,6913,12-05-2018,,,Single,Ten,,1,4,1,2,Good,0,Five,High,,,,9
+3414.0,Thirty,Human Resources,4,Scientist,,4336,,yes,Travel_Rarely,single,,,2,4,,3,,4,,3,No,2,Twenty,5
+7139.0,Thirty,R&D,4,Scientist,Male,Five Thousand,2018-05-21,N,,Divorced,Ten,Far,3,,Low,2,1,None,15,High,No,1,Twenty,24
+9068.0,,Sales,2,Scientist,male,Five Thousand,12-05-2018,No,,Divorced,,Near,4,5,,4,2,,4,,No,Zero,17,Twenty
+8928.0,32,HR,3,,,13639,2022-08-09,N,,Single,5,Far,,4,,4,3,None,,2,,1,,
+4213.0,60,Research & Development,4,Executive ,male,8051,,,Travel_Rarely,Married,,Far,3,5,1,,2,None,Five,High,No,2,,Twenty
+6500.0,49,rnd,2,Scientist,male,11294,Not Available,Yes,,Married,Ten,Near,4,Zero,4,,Good,4,Five,1,N,1,12,
+8274.0,,Research & Development,1,Executive ,M,,,N,Frequently,,19,,3,,2,,1,,Five,2,,,Twenty,27
+6718.0,Thirty,rnd,3,Executive,F,,12-05-2018,,Frequently,M,,,3,,3,2,Good,9,,4,Y,,Twenty,1
+9421.0,,,3,Manager,Male,6213,,yes,,D,3,10,High,Zero,1,1,2,None,Five,High,Yes,,,39
+9401.0,Thirty,Sales,,Laboratory Technician,F,17173,Not Available,No,Travel_Rarely,single,Ten,Near,4,0,3,,2,2,,1,,1,,29
+7650.0,Thirty,,2,Executive,Female,,2025-03-22,No,Frequently,D,12,Far,4,6,2,3,3,None,,,,1,21,16
+2956.0,45,Sales,5,,M,8187,,,Rarely,D,Ten,Near,High,,Low,4,Good,,5,1,No,0,Twenty,
+6574.0,,Sales,2,Laboratory Technician,,13539,2018-04-21,N,Frequently,D,,Far,1,6,2,,,0,1,2,Y,0,,
+7500.0,28,Research & Development,2,Research Scientist,Female,17399,Not Available,Yes,Travel_Rarely,Divorced,Ten,Far,1,5,,1,2,,Five,2,Yes,2,Twenty,37
+4935.0,Thirty,Sales,5,Laboratory Technician,Female,Five Thousand,,,Frequently,M,Ten,,High,Zero,2,3,2,,Five,1,yes,3,10,
+9067.0,,HR,4,Executive,F,,,Y,Travel_Frequently,single,5,Near,2,,4,3,,None,,1,,0,25,
+8862.0,38,Sales,3,Tech,Male,,,,Travel_Rarely,Married,,Near,1,,,Poor,3,10,Five,3,yes,Zero,Twenty,Twenty
+5117.0,,Research & Development,4,Tech,Male,,Not Available,Y,Travel_Rarely,,7,Near,High,Zero,1,2,Good,,,4,Y,Zero,Twenty,Twenty
+2255.0,Thirty,rnd,3,Laboratory Technician,F,7232,2021-06-14,Yes,Frequently,single,7,,,1,3,Poor,1,5,Five,4,yes,2,Twenty,14
+4261.0,27,R&D,4,,F,17015,Not Available,No,,single,,Far,1,Zero,3,4,Good,8,1,3,yes,1,Twenty,
+7580.0,,Human Resources,Two,Laboratory Technician,Male,13786,Not Available,Y,Travel_Frequently,M,8,,3,5,3,2,Good,None,Five,1,,1,Twenty,Twenty
+3617.0,Thirty,Research & Development,2,Executive,male,17981,Not Available,Yes,Travel_Rarely,single,11,Near,3,4,,3,1,,10,2,Yes,,Twenty,16
+4384.0,,Sales,5,Executive ,Female,5354,2024-02-26,N,Frequently,Single,9,Far,4,4,Low,1,2,,,3,Y,3,10,37
+6581.0,Thirty,,5,Executive,,Five Thousand,2018-10-06,N,,single,Ten,Near,High,Zero,4,3,Good,5,4,,Y,2,,4
+8322.0,Thirty,R&D,,Laboratory Technician,,Five Thousand,12-05-2018,N,Travel_Frequently,,Ten,Near,4,,4,,3,,13,3,Yes,Zero,Twenty,Twenty
+1199.0,Thirty,,,Research Scientist,male,Five Thousand,,No,,,Ten,,2,,2,Poor,3,None,5,3,Yes,2,14,Twenty
+6046.0,Thirty,rnd,5,Scientist,M,14891,2021-08-22,Yes,,Divorced,,15,High,4,Low,4,3,None,1,3,Y,2,Twenty,Twenty
+2412.0,Thirty,,Two,Scientist,,10809,,,Travel_Rarely,Married,,26,2,,4,,,None,1,,Y,Zero,18,Twenty
+4067.0,20,Human Resources,4,,Female,7596,12-05-2018,Y,Travel_Frequently,D,,,1,6,Low,,2,,3,3,yes,3,Twenty,
+6903.0,,R&D,1,Research Scientist,male,,12-05-2018,N,,M,4,Far,1,,Low,4,Good,0,,2,N,,10,Twenty
+,32,HR,5,,F,2203,Not Available,,Travel_Rarely,Married,,,4,Zero,2,,3,None,,4,No,0,Twenty,Twenty
+7932.0,Thirty,rnd,3,Research Scientist,Male,13463,,No,Travel_Rarely,M,Ten,,1,Zero,2,,2,7,7,High,Yes,2,22,Twenty
+3216.0,,R&D,4,Executive ,Male,Five Thousand,,N,Rarely,,13,,3,0,,2,,,11,1,,,23,Twenty
+2247.0,,HR,3,Executive ,,,2024-03-09,N,Travel_Frequently,Married,,,,4,2,1,,1,,3,N,3,,
+1046.0,Thirty,Sales,4,Scientist,M,,2016-02-01,,Travel_Rarely,D,,,3,Zero,1,3,Good,None,,4,No,1,Twenty,Twenty
+2041.0,34,HR,,Manager,male,11599,12-05-2018,Yes,,M,7,Far,2,Zero,,3,2,None,5,,N,2,,11
+3335.0,,rnd,5,Manager,Male,9826,,,Frequently,Divorced,1,Near,1,0,4,4,4,1,0,4,No,,20,
+7285.0,,Human Resources,5,Executive ,Male,,,No,Rarely,M,Ten,27,4,,,,3,None,,1,Yes,3,,Twenty
+7598.0,Thirty,R&D,Two,Tech,M,Five Thousand,,,Frequently,Married,,14,4,0,1,,1,2,15,1,Y,1,24,
+7098.0,23,Human Resources,2,Executive,male,2217,12-05-2018,Yes,Frequently,single,8,Far,3,Zero,,4,Good,,Five,,Y,0,,2
+7396.0,,R&D,3,Executive,F,13725,12-05-2018,yes,Travel_Rarely,,14,19,1,Zero,Low,2,3,,,4,N,3,Twenty,Twenty
+9441.0,52,,4,Executive,F,14587,Not Available,,Frequently,Married,,12,2,,Low,4,,4,,4,yes,2,,
+8129.0,41,rnd,1,Research Scientist,Male,19004,12-05-2018,N,Travel_Rarely,D,Ten,,High,5,3,4,2,0,,,Y,2,23,Twenty
+6899.0,23,Sales,,Executive,M,7532,12-05-2018,Yes,Rarely,M,7,4,1,1,1,,4,None,,4,No,,21,Twenty
+,,,Two,Executive,Female,13545,Not Available,Yes,Rarely,M,,,4,0,1,,4,,,1,Yes,3,,
+1155.0,,R&D,3,Research Scientist,Male,10829,,N,,M,,Far,4,Zero,3,2,Good,None,0,High,Yes,3,11,Twenty
+3233.0,Thirty,rnd,Two,,F,19252,,No,Non-Travel,single,Ten,,,1,3,1,1,8,14,1,Yes,3,11,
